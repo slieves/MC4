@@ -10522,6 +10522,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/netherite/slab": {
+    "criteria": {
+      "has_item": "2025-02-15 21:15:54 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/building_blocks/block_of_powdery_cannon": {
     "criteria": {
       "has_powder_cannon": "2025-02-15 21:02:48 +0000"
@@ -10552,9 +10558,33 @@
     },
     "done": true
   },
+  "netherexp:recipes/netherite/cut": {
+    "criteria": {
+      "has_item": "2025-02-15 21:15:54 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/building_blocks/powdery_plank": {
     "criteria": {
       "has_powder_cannon": "2025-02-15 21:02:48 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/netherite/grate": {
+    "criteria": {
+      "has_item": "2025-02-15 21:15:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-02-15 21:17:21 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/netherite/pillar": {
+    "criteria": {
+      "has_item": "2025-02-15 21:15:54 +0000"
     },
     "done": true
   },
@@ -10567,6 +10597,12 @@
   "mynethersdelight:recipes/cooking/fried_hoglin_chop": {
     "criteria": {
       "has_any_ingredient": "2025-02-15 21:01:39 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/netherite/stairs": {
+    "criteria": {
+      "has_item": "2025-02-15 21:15:54 +0000"
     },
     "done": true
   },

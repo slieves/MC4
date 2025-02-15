@@ -3920,3 +3920,9 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [15Feb2025 21:12:45.478] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jamison'/13627, l='ServerLevel[world]', x=-3171.42, y=82.00, z=113.92] died: Jamison was slain by Zombie
 [15Feb2025 21:13:10.587] [Worker-Main-58/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
 [15Feb2025 21:13:10.700] [Worker-Main-58/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 113ms
+[15Feb2025 21:22:36.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOSHEEEE lost connection: Disconnected
+[15Feb2025 21:22:36.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE left the game
+[15Feb2025 21:22:36.933] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 05c95e7d-3331-3e5a-9d76-5424e66cc84e
+[15Feb2025 21:25:52.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Forgotten
+[15Feb2025 21:26:03.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer fell from a high place
+[15Feb2025 21:26:08.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> vaia
