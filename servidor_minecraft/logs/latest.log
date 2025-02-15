@@ -3945,3 +3945,21 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [15Feb2025 21:50:10.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Digigamerfer moved wrongly!
 [15Feb2025 21:50:11.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Digigamerfer moved wrongly!
 [15Feb2025 21:50:11.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Digigamerfer moved wrongly!
+[15Feb2025 22:02:11.154] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JOSHEEEE[/127.41.73.254:33895] logged in with entity id 42537 at (-681.6769153136433, 97.0, 24.5843367847848)
+[15Feb2025 22:02:11.159] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JOSHEEEE
+[15Feb2025 22:02:11.159] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JOSHEEEE
+[15Feb2025 22:02:11.160] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JOSHEEEE
+[15Feb2025 22:02:11.162] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JOSHEEEE
+[15Feb2025 22:02:11.163] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JOSHEEEE
+[15Feb2025 22:02:11.165] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JOSHEEEE
+[15Feb2025 22:02:11.166] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JOSHEEEE
+[15Feb2025 22:02:11.175] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[15Feb2025 22:02:11.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE joined the game
+[15Feb2025 22:02:11.273] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 05c95e7d-3331-3e5a-9d76-5424e66cc84e
+[15Feb2025 22:02:11.283] [Server thread/INFO] [Jade/]: Syncing config to JOSHEEEE (05c95e7d-3331-3e5a-9d76-5424e66cc84e)
+[15Feb2025 22:02:26.843] [Server thread/INFO] [ping-wheel/]: Channel update: JOSHEEEE -> default
+[15Feb2025 22:02:26.843] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[15Feb2025 22:06:56.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> yaya
+[15Feb2025 22:06:59.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> da,e un toque
+[15Feb2025 22:17:53.719] [Worker-Main-58/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[15Feb2025 22:17:53.756] [Worker-Main-58/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 36ms
