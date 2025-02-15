@@ -1,0 +1,17 @@
+{
+	id: "b1284f62-b0d3-39b6-90b3-a2438888ab09"
+	type: "player"
+	player_name: "Shinkar"
+	ranks: {
+		b1284f62-b0d3-39b6-90b3-a2438888ab09: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Shinkar"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59A4"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "edb6134e-223e-3469-9573-7afb11cfbf0d"
+	type: "player"
+	player_name: "Sirfafnir55"
+	ranks: {
+		edb6134e-223e-3469-9573-7afb11cfbf0d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Sirfafnir55"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FB59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

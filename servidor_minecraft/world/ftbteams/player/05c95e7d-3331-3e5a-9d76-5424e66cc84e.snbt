@@ -1,0 +1,17 @@
+{
+	id: "05c95e7d-3331-3e5a-9d76-5424e66cc84e"
+	type: "player"
+	player_name: "JOSHEEEE"
+	ranks: {
+		05c95e7d-3331-3e5a-9d76-5424e66cc84e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "JOSHEEEE"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6559FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

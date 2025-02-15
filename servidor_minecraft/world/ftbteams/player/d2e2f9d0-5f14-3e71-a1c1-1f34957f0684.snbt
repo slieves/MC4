@@ -1,0 +1,17 @@
+{
+	id: "d2e2f9d0-5f14-3e71-a1c1-1f34957f0684"
+	type: "player"
+	player_name: "Digigamerfer"
+	ranks: {
+		d2e2f9d0-5f14-3e71-a1c1-1f34957f0684: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Digigamerfer"
+		"ftbteams:description": ""
+		"ftbteams:color": "#598CFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
