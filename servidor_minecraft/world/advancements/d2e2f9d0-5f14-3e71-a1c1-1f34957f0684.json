@@ -74,6 +74,7 @@
       "minecraft:frozen_river": "2025-02-05 02:13:32 +0000",
       "minecraft:sunflower_plains": "2025-02-15 22:37:18 +0000",
       "minecraft:birch_forest": "2025-02-10 03:53:48 +0000",
+      "minecraft:windswept_hills": "2025-02-15 22:48:49 +0000",
       "minecraft:bamboo_jungle": "2025-02-10 04:05:01 +0000",
       "minecraft:wooded_badlands": "2025-02-14 03:38:11 +0000",
       "minecraft:badlands": "2025-02-14 04:38:43 +0000",
@@ -86,6 +87,7 @@
       "minecraft:snowy_plains": "2025-02-05 02:16:20 +0000",
       "minecraft:stony_shore": "2025-02-05 02:43:24 +0000",
       "minecraft:snowy_taiga": "2025-02-05 02:09:06 +0000",
+      "minecraft:dripstone_caves": "2025-02-15 22:51:55 +0000",
       "minecraft:grove": "2025-02-10 04:54:32 +0000",
       "minecraft:swamp": "2025-02-12 05:08:44 +0000",
       "minecraft:jagged_peaks": "2025-02-10 04:49:06 +0000",
@@ -15225,6 +15227,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/alligator_snapping_turtle": {
+    "criteria": {
+      "killed_by": "2025-02-15 22:51:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-02-15 22:18:43 +0000"
@@ -15438,6 +15446,12 @@
   "betterend:recipes/misc/enchanted_membrane": {
     "criteria": {
       "has_item.minecraft.phantom_membrane": "2025-02-15 22:39:34 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/glow_jam_jar": {
+    "criteria": {
+      "has_glow_berries": "2025-02-15 22:58:48 +0000"
     },
     "done": true
   },

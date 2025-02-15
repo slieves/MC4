@@ -16902,6 +16902,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
+    "criteria": {
+      "forge:dyes/white": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-02-15 22:16:03 +0000"
@@ -16920,9 +16926,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_plate": {
+    "criteria": {
+      "has_white_plate": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hnhome/gardens_of_the_dead/soulblight_lattice": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_bulb_lantern_white": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
     },
     "done": true
   },
@@ -16956,9 +16974,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_crockery_combo": {
+    "criteria": {
+      "has_white_crockery_combo": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
   "gardens_of_the_dead:recipes/redstone/soulblight_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_white": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
     },
     "done": true
   },
@@ -16968,9 +16998,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_bowl": {
+    "criteria": {
+      "has_white_bowl": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
   "gardens_of_the_dead:recipes/decorations/soulblight_fence": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-02-15 22:49:21 +0000"
     },
     "done": true
   },
@@ -16986,6 +17028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/gardens_of_the_dead/soulblight_chest": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
@@ -16995,6 +17043,12 @@
   "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_couch": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-02-15 22:49:21 +0000"
     },
     "done": true
   },
@@ -17016,6 +17070,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_drawer": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
@@ -17028,9 +17088,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_nightstand": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cup": {
+    "criteria": {
+      "has_white_cup": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_framed_white": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
     },
     "done": true
   },
@@ -17055,6 +17133,12 @@
   "everycomp:recipes/decorations/vp/gardens_of_the_dead/soulblight_horticulturist_table": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
     },
     "done": true
   },
@@ -17100,6 +17184,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/gardens_of_the_dead/soulblight_post": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
@@ -17136,6 +17226,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/netherite/cooking/slab": {
     "criteria": {
       "has_item": "2025-02-15 21:28:30 +0000"
@@ -17148,6 +17244,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/quartz_glass_pane_white": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/gardens_of_the_dead/soulblight_trapped_chest": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
@@ -17157,6 +17259,12 @@
   "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_dining_bench": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_white": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
     },
     "done": true
   },
@@ -17202,6 +17310,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "phantom": "2025-02-15 22:39:26 +0000"
@@ -17220,6 +17334,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/hydralux_petal_block_white": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_bench": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
@@ -17232,15 +17352,33 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/terminite_bulb_lantern_white": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
   "gardens_of_the_dead:recipes/building_blocks/soulblight_planks": {
     "criteria": {
       "has_logs": "2025-02-15 21:32:53 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/gardens_of_the_dead/hollow_soulblight_log": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
     },
     "done": true
   },
@@ -17289,6 +17427,12 @@
   "gardens_of_the_dead:recipes/building_blocks/soulblight_hyphae": {
     "criteria": {
       "has_log": "2025-02-15 21:32:53 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/iron_bulb_lantern_white": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
     },
     "done": true
   },
