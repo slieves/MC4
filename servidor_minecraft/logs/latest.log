@@ -4042,3 +4042,6 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [15Feb2025 23:34:04.277] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/121137, l='ServerLevel[world]', x=159.50, y=57.00, z=19.50]
 [15Feb2025 23:35:39.868] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/122071, l='ServerLevel[world]', x=155.50, y=62.00, z=19.50]
 [15Feb2025 23:40:47.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Eye of The Storm]
+[15Feb2025 23:41:18.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Eye of The Storm]
+[15Feb2025 23:41:35.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Eye of The Storm]
+[15Feb2025 23:44:37.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Sculk Engineer]

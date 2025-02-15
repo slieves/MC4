@@ -15373,6 +15373,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-02-15 23:40:47 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_quartz_wall_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-15 22:46:19 +0000"

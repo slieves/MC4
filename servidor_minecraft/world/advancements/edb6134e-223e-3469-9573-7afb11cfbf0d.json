@@ -85,6 +85,7 @@
       "minecraft:deep_cold_ocean": "2025-02-11 04:21:02 +0000",
       "minecraft:ice_spikes": "2025-02-05 04:47:30 +0000",
       "minecraft:frozen_ocean": "2025-02-05 03:04:02 +0000",
+      "minecraft:desert": "2025-02-15 23:41:03 +0000",
       "minecraft:deep_frozen_ocean": "2025-02-12 04:11:41 +0000",
       "minecraft:ocean": "2025-02-04 06:07:33 +0000",
       "minecraft:snowy_beach": "2025-02-05 02:59:27 +0000",
@@ -2499,6 +2500,7 @@
       "minecraft:zombified_piglin": "2025-02-07 04:35:10 +0000",
       "minecraft:witch": "2025-02-05 03:30:01 +0000",
       "minecraft:wither_skeleton": "2025-02-07 04:50:09 +0000",
+      "minecraft:husk": "2025-02-15 23:41:55 +0000",
       "minecraft:cave_spider": "2025-02-05 05:27:00 +0000",
       "minecraft:piglin": "2025-02-07 04:20:05 +0000",
       "minecraft:stray": "2025-02-05 03:14:09 +0000",
@@ -5481,6 +5483,7 @@
       "maple_woods": "2025-02-05 02:54:23 +0000",
       "bog": "2025-02-15 23:26:10 +0000",
       "coniferous_forest": "2025-02-06 06:00:15 +0000",
+      "wasteland": "2025-02-15 23:42:53 +0000",
       "visceral_heap": "2025-02-11 05:22:36 +0000",
       "aspen_glade": "2025-02-11 04:18:25 +0000",
       "dune_beach": "2025-02-04 06:07:27 +0000",
@@ -17275,6 +17278,30 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/combat/warden_leggings_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-02-15 23:44:37 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/obtain_reinforced_echo_shard": {
+    "criteria": {
+      "reinforced_echo_shard": "2025-02-15 23:44:37 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/warden_pickaxe_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-02-15 23:44:37 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/warden_axe_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-02-15 23:44:37 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/quartz_glass_pane_black": {
     "criteria": {
       "has_black_dye": "2025-02-15 21:51:57 +0000"
@@ -17347,9 +17374,27 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/combat/warden_sword_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-02-15 23:44:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-02-15 22:46:01 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/warden_helmet_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-02-15 23:44:37 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-02-15 23:41:35 +0000"
     },
     "done": true
   },
@@ -17377,6 +17422,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/combat/warden_boots_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-02-15 23:44:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_black_dye": "2025-02-15 21:51:57 +0000"
@@ -17398,6 +17449,12 @@
   "twigs:recipes/copper_pillar/copper_pillar_stonecutting": {
     "criteria": {
       "has_cut_copper_slab": "2025-02-15 22:46:01 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/warden_chestplate_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-02-15 23:44:37 +0000"
     },
     "done": true
   },
@@ -17428,6 +17485,18 @@
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2025-02-15 21:51:57 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/warden_shovel_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-02-15 23:44:37 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/warden_hoe_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-02-15 23:44:37 +0000"
     },
     "done": true
   },
