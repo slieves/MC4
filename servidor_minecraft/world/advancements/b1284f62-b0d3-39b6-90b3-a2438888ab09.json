@@ -16914,9 +16914,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_fancy_bed": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_medium_pot": {
+    "criteria": {
+      "has_terracotta_medium_pot": "2025-02-15 23:24:22 +0000"
     },
     "done": true
   },
@@ -16950,6 +16962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
   "gardens_of_the_dead:recipes/redstone/soulblight_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
@@ -16965,6 +16983,12 @@
   "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_side_table": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
     },
     "done": true
   },
@@ -16986,9 +17010,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/quartz_glass_white": {
     "criteria": {
       "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_wide_pot": {
+    "criteria": {
+      "has_terracotta_wide_pot": "2025-02-15 23:24:22 +0000"
     },
     "done": true
   },
@@ -17034,6 +17070,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/gardens_of_the_dead/soulblight_chest": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
@@ -17043,6 +17085,30 @@
   "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_couch": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/tiles": {
+    "criteria": {
+      "has_item": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_thin_pot": {
+    "criteria": {
+      "has_terracotta_thin_pot": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
     },
     "done": true
   },
@@ -17121,6 +17187,12 @@
   "everycomp:recipes/decorations/af/gardens_of_the_dead/soulblight_bench": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
     },
     "done": true
   },
@@ -17214,9 +17286,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-02-15 23:26:03 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hnhome/gardens_of_the_dead/soulblight_sanded_wood": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
     },
     "done": true
   },
@@ -17238,6 +17322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/gardens_of_the_dead/vertical_soulblight_planks": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
@@ -17247,6 +17337,12 @@
   "betternether:recipes/decorations/quartz_glass_pane_white": {
     "criteria": {
       "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
     },
     "done": true
   },
@@ -17262,9 +17358,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/terracotta_plate": {
+    "criteria": {
+      "has_terracotta_plate": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/quartz_glass_framed_pane_white": {
     "criteria": {
       "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
     },
     "done": true
   },
@@ -17298,6 +17406,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/terracotta_bricks": {
+    "criteria": {
+      "has_item": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_pillar_trim": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
@@ -17310,9 +17430,21 @@
     },
     "done": true
   },
+  "hearth_and_home:recipes/shingles": {
+    "criteria": {
+      "has_item": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
     },
     "done": true
   },
@@ -17325,6 +17457,12 @@
   "everycomp:recipes/decorations/bp/gardens_of_the_dead/soulblight_backpack_shelf": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_cup": {
+    "criteria": {
+      "has_terracotta_cup": "2025-02-15 23:24:22 +0000"
     },
     "done": true
   },
@@ -17343,6 +17481,12 @@
   "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_bench": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
     },
     "done": true
   },
@@ -17400,9 +17544,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/terracotta_bowl": {
+    "criteria": {
+      "has_terracotta_bowl": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/af/gardens_of_the_dead/soulblight_chair": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
     },
     "done": true
   },
@@ -17415,6 +17571,12 @@
   "everycomp:recipes/decorations/hnhome/gardens_of_the_dead/soulblight_trim": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_thick_pot": {
+    "criteria": {
+      "has_terracotta_thick_pot": "2025-02-15 23:24:22 +0000"
     },
     "done": true
   },
