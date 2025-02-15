@@ -3916,3 +3916,7 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [15Feb2025 21:03:04.182] [Server thread/INFO] [Jade/]: Syncing config to Shinkar (b1284f62-b0d3-39b6-90b3-a2438888ab09)
 [15Feb2025 21:03:19.602] [Server thread/INFO] [ping-wheel/]: Channel update: Shinkar -> default
 [15Feb2025 21:03:19.634] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[15Feb2025 21:12:45.477] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jamison'/13627, l='ServerLevel[world]', x=-3171.42, y=82.00, z=113.92] died, message: 'Jamison was slain by Zombie'
+[15Feb2025 21:12:45.478] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jamison'/13627, l='ServerLevel[world]', x=-3171.42, y=82.00, z=113.92] died: Jamison was slain by Zombie
+[15Feb2025 21:13:10.587] [Worker-Main-58/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[15Feb2025 21:13:10.700] [Worker-Main-58/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 113ms
