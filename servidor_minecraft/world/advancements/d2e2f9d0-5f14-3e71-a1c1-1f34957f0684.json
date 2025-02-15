@@ -2924,6 +2924,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-05 03:16:12 +0000",
+      "minecraft:blaze": "2025-02-15 22:30:12 +0000",
       "minecraft:skeleton": "2025-02-04 05:25:57 +0000",
       "minecraft:ravager": "2025-02-05 03:22:20 +0000",
       "minecraft:vindicator": "2025-02-05 03:37:13 +0000",
@@ -15120,9 +15121,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-15 22:31:58 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/soul_sand_valley": {
     "criteria": {
       "condition": "2025-02-15 22:17:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/cincinnasite_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_block.betternether.cincinnasite_ore": "2025-02-15 22:34:25 +0000"
     },
     "done": true
   },
@@ -15162,6 +15175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-15 22:31:58 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bloodstone/bloodstone": {
     "criteria": {
       "has_item": "2025-02-15 22:18:43 +0000"
@@ -15198,6 +15217,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/cincinnasite_ingot_from_ore_smelting": {
+    "criteria": {
+      "has_block.betternether.cincinnasite_ore": "2025-02-15 22:34:25 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/quartz_glass_smelting": {
     "criteria": {
       "has_item.minecraft.quartz": "2025-02-15 22:18:43 +0000"
@@ -15209,6 +15234,12 @@
       "in_mineshaft_warped": "2025-02-15 22:22:24 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-02-15 22:31:58 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {

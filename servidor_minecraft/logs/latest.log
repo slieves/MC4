@@ -3982,3 +3982,24 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [15Feb2025 22:26:31.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOSHEEEE lost connection: Disconnected
 [15Feb2025 22:26:31.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE left the game
 [15Feb2025 22:26:31.695] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 05c95e7d-3331-3e5a-9d76-5424e66cc84e
+[15Feb2025 22:28:34.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[15Feb2025 22:28:56.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6987ms or 139 ticks behind
+[15Feb2025 22:29:13.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2171ms or 43 ticks behind
+[15Feb2025 22:29:31.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2984ms or 59 ticks behind
+[15Feb2025 22:29:50.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4275ms or 85 ticks behind
+[15Feb2025 22:30:15.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2562ms or 51 ticks behind
+[15Feb2025 22:30:32.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2134ms or 42 ticks behind
+[15Feb2025 22:31:58.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Hidden in the Depths]
+[15Feb2025 22:35:28.307] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[15Feb2025 22:35:36.352] [Server thread/INFO] [naturescompass/]: Search succeeded: 4998 radius, 11722 samples
+[15Feb2025 22:36:31.961] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[15Feb2025 22:36:32.180] [Worker-Main-28/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[15Feb2025 22:36:32.180] [Worker-Main-28/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[15Feb2025 22:36:39.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has completed the challenge [Subspace Bubble]
+[15Feb2025 22:36:39.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7991ms or 159 ticks behind
+[15Feb2025 22:37:34.346] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=11744, y=-39, z=-746} but found not block entity block Block{minecraft:cave_air} at location
+[15Feb2025 22:37:34.346] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=11744, y=-39, z=-746}
+[15Feb2025 22:38:45.231] [pool-10-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / blue_skies:village_shaded_woodlands]] from pos BlockPos{x=11547, y=73, z=-955}
+[15Feb2025 22:38:49.871] [Worker-Main-60/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[15Feb2025 22:38:51.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
+[15Feb2025 22:38:58.759] [Worker-Main-29/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
