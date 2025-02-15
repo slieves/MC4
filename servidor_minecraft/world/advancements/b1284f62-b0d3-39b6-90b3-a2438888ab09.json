@@ -2065,6 +2065,7 @@
       "minecraft:evoker": "2025-02-05 07:00:14 +0000",
       "minecraft:slime": "2025-02-12 03:31:15 +0000",
       "quark:forgotten": "2025-02-11 03:57:52 +0000",
+      "minecraft:phantom": "2025-02-15 22:39:26 +0000",
       "minecraft:witch": "2025-02-05 03:16:53 +0000",
       "minecraft:wither_skeleton": "2025-02-08 02:52:19 +0000",
       "minecraft:cave_spider": "2025-02-09 05:07:04 +0000",
@@ -16913,9 +16914,21 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/silt_from_clay": {
+    "criteria": {
+      "has_item": "2025-02-15 22:40:20 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hnhome/gardens_of_the_dead/soulblight_lattice": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-02-15 22:40:20 +0000"
     },
     "done": true
   },
@@ -17188,6 +17201,12 @@
       "has_planks": "2025-02-15 21:36:04 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-02-15 22:39:26 +0000"
+    },
+    "done": false
   },
   "everycomp:recipes/decorations/bp/gardens_of_the_dead/soulblight_backpack_shelf": {
     "criteria": {
