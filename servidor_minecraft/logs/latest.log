@@ -3942,3 +3942,6 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [15Feb2025 21:36:18.042] [Server thread/INFO] [Jade/]: Syncing config to Sirfafnir55 (edb6134e-223e-3469-9573-7afb11cfbf0d)
 [15Feb2025 21:36:33.436] [Server thread/INFO] [ping-wheel/]: Channel update: Sirfafnir55 -> default
 [15Feb2025 21:36:33.437] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[15Feb2025 21:50:10.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Digigamerfer moved wrongly!
+[15Feb2025 21:50:11.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Digigamerfer moved wrongly!
+[15Feb2025 21:50:11.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Digigamerfer moved wrongly!
