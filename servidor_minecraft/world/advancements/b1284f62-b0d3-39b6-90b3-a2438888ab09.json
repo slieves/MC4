@@ -16895,5 +16895,29 @@
     },
     "done": true
   },
+  "netherexp:recipes/netherite/cooking/slab": {
+    "criteria": {
+      "has_item": "2025-02-15 21:28:30 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/netherite/cooking/stairs": {
+    "criteria": {
+      "has_item": "2025-02-15 21:28:30 +0000"
+    },
+    "done": true
+  },
+  "gardens_of_the_dead:recipes/building_blocks/soulblight_planks": {
+    "criteria": {
+      "has_logs": "2025-02-15 21:32:53 +0000"
+    },
+    "done": true
+  },
+  "gardens_of_the_dead:recipes/building_blocks/soulblight_hyphae": {
+    "criteria": {
+      "has_log": "2025-02-15 21:32:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
