@@ -9354,15 +9354,363 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-02-07 00:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-02-07 00:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-02-07 00:19:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-02-07 00:19:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-02-07 00:19:20 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/cutting/ice_sword": {
+    "criteria": {
+      "has_diamond_sword": "2025-02-07 00:35:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2025-02-07 00:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-02-07 00:37:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-02-07 00:37:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-02-07 00:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-02-07 00:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-02-07 01:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-02-07 01:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-02-07 01:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-02-07 01:24:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_helmet_repairing": {
+    "criteria": {
+      "has_chainmail_helmet": "2025-02-07 01:35:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-02-07 01:36:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2025-02-07 01:36:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-02-07 01:36:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-07 01:38:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-07 01:38:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2025-02-07 01:57:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2025-02-07 02:00:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2025-02-07 02:00:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-02-07 02:47:22 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:get_diamond_shield": {
+    "criteria": {
+      "diamond_shield": "2025-02-07 02:48:28 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2025-02-07 03:04:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_axe_repairing": {
+    "criteria": {
+      "has_stone_axe": "2025-02-07 03:12:14 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/hallowed_gem": {
+    "criteria": {
+      "has_unusual_dust_and_illusionary_dust": "2025-02-07 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-02-07 03:30:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2025-02-07 03:35:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
     },
     "done": true
   },
-  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+  "aether:recipes/combat/netherite_gloves_smithing": {
     "criteria": {
-      "has_potion": "2025-02-07 04:54:54 +0000"
+      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:recipes/netherite_shield": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_boots_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-07 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_horse_armor_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-07 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_chestplate_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-07 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_leggings_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-07 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_helmet_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-07 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-07 03:47:25 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/oak_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-02-07 03:47:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-07 03:47:25 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_heart_of_the_deep": "2025-02-07 03:54:16 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2025-02-07 03:56:56 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:nether_structures": {
+    "criteria": {
+      "example": "2025-02-07 03:56:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-07 03:56:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-07 03:56:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-07 03:56:56 +0000"
     },
     "done": true
   },
@@ -9376,15 +9724,69 @@
     },
     "done": false
   },
-  "aether:recipes/combat/netherite_gloves_smithing": {
+  "delightful:recipes/knives/nether_quartz_knife": {
     "criteria": {
-      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
+      "has_gems/quartz": "2025-02-07 03:59:28 +0000"
     },
     "done": true
   },
-  "minecraft:nether/brew_potion": {
+  "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
-      "potion": "2025-02-07 04:54:53 +0000"
+      "has_quartz": "2025-02-07 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-07 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-07 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone": {
+    "criteria": {
+      "has_item": "2025-02-07 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-07 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_smelting": {
+    "criteria": {
+      "has_item.minecraft.quartz": "2025-02-07 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-07 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist": {
+    "criteria": {
+      "has_item": "2025-02-07 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite": {
+    "criteria": {
+      "has_item": "2025-02-07 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-07 03:59:28 +0000"
     },
     "done": true
   },
@@ -9394,81 +9796,21 @@
     },
     "done": false
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-07 04:00:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-02-07 04:00:19 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_pillar_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-07 04:00:31 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/magma_cake": {
-    "criteria": {
-      "has_magma_cream": "2025-02-07 04:06:55 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/soul_skeleton_skull_candle": {
-    "criteria": {
-      "has_item": "2025-02-07 04:02:39 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/nether_ruby_hoe": {
-    "criteria": {
-      "has_nether_reed_stem": "2025-02-07 04:25:35 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/skeleton_skull_candle": {
-    "criteria": {
-      "has_item": "2025-02-07 04:00:47 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flint_block": {
-    "criteria": {
-      "has_flint": "2025-02-07 00:19:20 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/nether_reed_hanging_sign": {
-    "criteria": {
-      "has_nether_reed_stem": "2025-02-07 04:25:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_helmet_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/crafting/rock_soup": {
-    "criteria": {
-      "has_magma_cream": "2025-02-07 04:06:55 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate/pale": {
-    "criteria": {
-      "has_planks": "2025-02-07 04:02:44 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/netherite_knife_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
-    "criteria": {
-      "has_emerald_ore": "2025-02-07 01:24:22 +0000"
-    },
-    "done": true
-  },
-  "shieldexp:recipes/netherite_shield": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
     },
     "done": true
   },
@@ -9478,33 +9820,9 @@
     },
     "done": true
   },
-  "illagerinvasion:recipes/misc/hallowed_gem": {
-    "criteria": {
-      "has_unusual_dust_and_illusionary_dust": "2025-02-07 03:29:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-02-07 01:38:48 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/nether_brick_pavers_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-07 04:00:31 +0000"
-    },
-    "done": true
-  },
-  "bygonenether:root": {
-    "criteria": {
-      "entered_nether": "2025-02-07 03:56:56 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate/slab": {
-    "criteria": {
-      "has_planks": "2025-02-07 04:02:44 +0000"
     },
     "done": true
   },
@@ -9514,51 +9832,15 @@
     },
     "done": true
   },
-  "aether:recipes/combat/diamond_helmet_repairing": {
-    "criteria": {
-      "has_diamond_helmet": "2025-02-07 00:42:12 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/cincinnasite_forge": {
     "criteria": {
       "has_nether_bricks": "2025-02-07 04:00:31 +0000"
     },
     "done": true
   },
-  "mynethersdelight:recipes/misc/magma_cake_alt": {
-    "criteria": {
-      "has_magma_cream": "2025-02-07 04:06:55 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/knives/nether_quartz_knife": {
-    "criteria": {
-      "has_gems/quartz": "2025-02-07 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/crafting/spicy_skewer": {
-    "criteria": {
-      "has_blaze_rod": "2025-02-07 04:30:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-07 04:00:31 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/crafting/burnt_roll": {
-    "criteria": {
-      "has_magma_cream": "2025-02-07 04:06:55 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_reed_planks": {
-    "criteria": {
-      "has_nether_reed_stem": "2025-02-07 04:25:35 +0000"
     },
     "done": true
   },
@@ -9580,45 +9862,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-02-07 03:59:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-02-07 04:00:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_shovel_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-02-07 04:00:19 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/cincinnasite_sword": {
-    "criteria": {
-      "has_nether_reed_stem": "2025-02-07 04:25:35 +0000"
-    },
-    "done": true
-  },
-  "twilightdelight:recipes/frozen/cutting/ice_sword": {
-    "criteria": {
-      "has_diamond_sword": "2025-02-07 00:35:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
-    "criteria": {
-      "has_diamond_ore": "2025-02-07 01:24:49 +0000"
     },
     "done": true
   },
@@ -9628,81 +9874,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
-    "criteria": {
-      "has_wither_skeleton_skull": "2025-02-07 04:00:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-02-07 00:19:19 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/bn_brown_mushroom": {
-    "criteria": {
-      "has_wall_mushroom_brown": "2025-02-07 04:27:05 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/brick_pot": {
-    "criteria": {
-      "has_soul_sand": "2025-02-07 04:32:11 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate/jagged": {
-    "criteria": {
-      "has_planks": "2025-02-07 04:02:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-02-07 04:10:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-02-07 04:02:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-02-07 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-02-07 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/cincinnasite_shovel": {
-    "criteria": {
-      "has_nether_reed_stem": "2025-02-07 04:25:35 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/nether_brick_shingles_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-07 04:00:31 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
-    "criteria": {
-      "has_soul_sand": "2025-02-07 04:32:11 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_leggings_repairing": {
-    "criteria": {
-      "has_golden_leggings": "2025-02-07 01:57:44 +0000"
     },
     "done": true
   },
@@ -9712,39 +9886,9 @@
     },
     "done": true
   },
-  "betternether:recipes/misc/sugar": {
-    "criteria": {
-      "has_nether_reed_stem": "2025-02-07 04:25:35 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:shipwrecks": {
-    "criteria": {
-      "in_shipwreck_nether_bricks": "2025-02-07 04:54:33 +0000"
-    },
-    "done": false
-  },
   "stoneworks:recipes/building_blocks/nether_brick_shingle_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-07 04:00:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_axe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_chestplate_repairing": {
-    "criteria": {
-      "has_diamond_chestplate": "2025-02-07 01:36:48 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/nether_bricks/red_mixed_nether_bricks": {
-    "criteria": {
-      "has_item": "2025-02-07 04:29:02 +0000"
     },
     "done": true
   },
@@ -9754,75 +9898,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
-    "criteria": {
-      "has_deepslate_gold_ore": "2025-02-07 00:37:17 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/safe": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "in_better_fortress": "2025-02-07 04:29:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-02-07 04:06:55 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/combat/sterling_boots_smithing": {
-    "criteria": {
-      "has_silver_ingot": "2025-02-07 03:40:30 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/cincinnasite_axe": {
-    "criteria": {
-      "has_nether_reed_stem": "2025-02-07 04:25:35 +0000"
-    },
-    "done": true
-  },
   "netherexp:recipes/nether_bricks/blue/nether_bricks": {
     "criteria": {
       "has_item": "2025-02-07 04:00:31 +0000"
-    },
-    "done": true
-  },
-  "shieldexp:get_diamond_shield": {
-    "criteria": {
-      "diamond_shield": "2025-02-07 02:48:28 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/bricks_fire_bowl_soul": {
-    "criteria": {
-      "has_soul_sand": "2025-02-07 04:32:11 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
-    "criteria": {
-      "has_item": "2025-02-07 04:02:39 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_leggings_repairing": {
-    "criteria": {
-      "has_diamond_leggings": "2025-02-07 01:36:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-02-07 04:10:36 +0000"
     },
     "done": true
   },
@@ -9832,63 +9910,9 @@
     },
     "done": true
   },
-  "netherexp:recipes/misc/soul_magma_block": {
-    "criteria": {
-      "has_item2": "2025-02-07 04:02:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-02-07 04:29:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-02-07 04:00:31 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_sword_repairing": {
-    "criteria": {
-      "has_golden_sword": "2025-02-07 04:49:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-02-07 04:00:54 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/combat/sterling_horse_armor_smithing": {
-    "criteria": {
-      "has_silver_ingot": "2025-02-07 03:40:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2025-02-07 03:30:05 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate/wall": {
-    "criteria": {
-      "has_planks": "2025-02-07 04:02:44 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/shadow_berry_jelly_potion": {
-    "criteria": {
-      "has_potion": "2025-02-07 04:54:54 +0000"
-    },
-    "done": true
-  },
-  "adorabuild_structures:nether_structures": {
-    "criteria": {
-      "example": "2025-02-07 03:56:56 +0000"
     },
     "done": true
   },
@@ -9898,87 +9922,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-02-07 04:29:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
-    "criteria": {
-      "has_deepslate_diamond_ore": "2025-02-07 00:18:56 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/leather_chestplate_repairing": {
-    "criteria": {
-      "has_leather_chestplate": "2025-02-07 02:00:36 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/nether_brick_plate_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-07 04:00:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-02-07 03:56:56 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/netherrack_stalactite_netherrack": {
-    "criteria": {
-      "has_netherrack_stalactite": "2025-02-07 04:58:31 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/stick": {
-    "criteria": {
-      "has_nether_reed_stem": "2025-02-07 04:25:35 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/bloodstone/bloodstone": {
-    "criteria": {
-      "has_item": "2025-02-07 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/food/herbal_medicine": {
-    "criteria": {
-      "has_nether_wart": "2025-02-07 04:00:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/burn_roll": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-07 04:06:55 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
-    "criteria": {
-      "has_soul_sand": "2025-02-07 04:32:11 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_sword_repairing": {
-    "criteria": {
-      "has_netherite_sword": "2025-02-07 04:34:28 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/egg_sandwich": {
-    "criteria": {
-      "has_fried_egg": "2025-02-07 02:47:22 +0000"
     },
     "done": true
   },
@@ -9988,51 +9934,9 @@
     },
     "done": true
   },
-  "netherexp:recipes/misc/soul_torch_from_fossil_fuel": {
-    "criteria": {
-      "has_item": "2025-02-07 04:02:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-02-07 04:30:40 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/nether_brick_shingle_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-07 04:00:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_helmet": "2025-02-07 00:42:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-02-07 03:47:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-02-07 04:29:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-02-07 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/rock_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-07 04:06:55 +0000"
     },
     "done": true
   },
@@ -10048,78 +9952,6 @@
     },
     "done": true
   },
-  "betternether:recipes/tools/cincinnasite_hoe": {
-    "criteria": {
-      "has_nether_reed_stem": "2025-02-07 04:25:35 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/oak_beam": {
-    "criteria": {
-      "has_stripped_log": "2025-02-07 03:47:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2025-02-07 03:47:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-02-07 04:29:02 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/bn_glowstone_dust": {
-    "criteria": {
-      "has_glowstone_pile": "2025-02-07 04:51:41 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate/stairs": {
-    "criteria": {
-      "has_planks": "2025-02-07 04:02:44 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/sanctum/skull_on_a_stick": {
-    "criteria": {
-      "item": "2025-02-07 04:00:47 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/redstone/cincinnasite_brick_plate": {
-    "criteria": {
-      "has_nether_brick": "2025-02-07 04:40:37 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate/bricks": {
-    "criteria": {
-      "has_item": "2025-02-07 04:02:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-02-07 03:56:56 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/food/stalagnate_bowl_wart": {
-    "criteria": {
-      "has_nether_wart": "2025-02-07 04:00:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_leggings_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/nether_brick_wall_from_brick_stonecutting": {
     "criteria": {
       "has_block.minecraft.nether_bricks": "2025-02-07 04:00:31 +0000"
@@ -10129,78 +9961,6 @@
   "stoneworks:recipes/building_blocks/nether_brick_plate_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-07 04:00:31 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
-    "criteria": {
-      "has_item": "2025-02-07 04:02:39 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/golden_axe_repairing": {
-    "criteria": {
-      "has_golden_axe": "2025-02-07 04:34:35 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/nether_ruby_shovel": {
-    "criteria": {
-      "has_nether_reed_stem": "2025-02-07 04:25:35 +0000"
-    },
-    "done": true
-  },
-  "netherexp:nether/ssv_sub_biomes": {
-    "criteria": {
-      "netherexp:black_ice_glaciers": "2025-02-07 04:01:41 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_chestplate_repairing": {
-    "criteria": {
-      "has_golden_chestplate": "2025-02-07 02:00:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lodestone": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/netherite_block": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_boots_repairing": {
-    "criteria": {
-      "has_diamond_boots": "2025-02-07 01:36:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2025-02-07 04:40:37 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/soul_soil_layer": {
-    "criteria": {
-      "has_item": "2025-02-07 04:02:39 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/quartz_glass_smelting": {
-    "criteria": {
-      "has_item.minecraft.quartz": "2025-02-07 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-02-07 04:02:39 +0000"
     },
     "done": true
   },
@@ -10222,33 +9982,123 @@
     },
     "done": true
   },
-  "aether:recipes/combat/golden_boots_repairing": {
+  "betternether:recipes/building_blocks/roof_tile_nether_brick_stonecutting": {
     "criteria": {
-      "has_golden_boots": "2025-02-07 03:35:56 +0000"
+      "has_block.minecraft.nether_bricks": "2025-02-07 04:00:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "betternether:recipes/building_blocks/nether_bricks_roof_tile_nether_bricks": {
     "criteria": {
-      "has_iron_block": "2025-02-07 01:38:48 +0000"
+      "has_nether_bricks": "2025-02-07 04:00:31 +0000"
     },
     "done": true
   },
-  "betternether:recipes/decorations/cincinnasite_pot": {
+  "betternether:recipes/building_blocks/nether_brick_tile_slab_from_brick_stonecutting": {
     "criteria": {
-      "has_soul_sand": "2025-02-07 04:32:11 +0000"
+      "has_block.minecraft.nether_bricks": "2025-02-07 04:00:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
-      "has_blaze_rod": "2025-02-07 04:30:40 +0000"
+      "has_nether_bricks": "2025-02-07 04:00:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_nether_brick_wall": {
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
-      "has_red_nether_bricks": "2025-02-07 04:29:02 +0000"
+      "has_nether_bricks": "2025-02-07 04:00:31 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_anvil": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-07 04:00:31 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-02-07 04:00:47 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/skull_on_a_stick": {
+    "criteria": {
+      "item": "2025-02-07 04:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-02-07 04:00:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/herbal_medicine": {
+    "criteria": {
+      "has_nether_wart": "2025-02-07 04:00:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/stalagnate_bowl_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-02-07 04:00:54 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/ssv_sub_biomes": {
+    "criteria": {
+      "netherexp:black_ice_glaciers": "2025-02-07 04:01:41 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-02-07 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-07 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-02-07 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_magma_block": {
+    "criteria": {
+      "has_item2": "2025-02-07 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_torch_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2025-02-07 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-02-07 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_soil_layer": {
+    "criteria": {
+      "has_item": "2025-02-07 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-02-07 04:02:39 +0000"
     },
     "done": true
   },
@@ -10258,17 +10108,107 @@
     },
     "done": true
   },
-  "betternether:recipes/tools/nether_ruby_sword": {
+  "netherexp:recipes/misc/soul_candle": {
     "criteria": {
-      "has_nether_reed_stem": "2025-02-07 04:25:35 +0000"
+      "has_planks": "2025-02-07 04:02:39 +0000"
     },
     "done": true
   },
-  "repurposed_structures:mineshafts": {
+  "netherexp:recipes/soul_slate/pale": {
     "criteria": {
-      "in_mineshaft_nether": "2025-02-07 04:37:02 +0000"
+      "has_planks": "2025-02-07 04:02:44 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/slab": {
+    "criteria": {
+      "has_planks": "2025-02-07 04:02:44 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/jagged": {
+    "criteria": {
+      "has_planks": "2025-02-07 04:02:44 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/wall": {
+    "criteria": {
+      "has_planks": "2025-02-07 04:02:44 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/stairs": {
+    "criteria": {
+      "has_planks": "2025-02-07 04:02:44 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/bricks": {
+    "criteria": {
+      "has_item": "2025-02-07 04:02:44 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/bricks_from_etched": {
+    "criteria": {
+      "has_item": "2025-02-07 04:02:44 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/magma_cake": {
+    "criteria": {
+      "has_magma_cream": "2025-02-07 04:06:55 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/rock_soup": {
+    "criteria": {
+      "has_magma_cream": "2025-02-07 04:06:55 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/magma_cake_alt": {
+    "criteria": {
+      "has_magma_cream": "2025-02-07 04:06:55 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/burnt_roll": {
+    "criteria": {
+      "has_magma_cream": "2025-02-07 04:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-02-07 04:06:55 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/burn_roll": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-07 04:06:55 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/rock_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-07 04:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-07 04:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-07 04:10:36 +0000"
+    },
+    "done": true
   },
   "twigs:recipes/paper_lanterns/crimson_roots_paper_lantern": {
     "criteria": {
@@ -10282,9 +10222,75 @@
     },
     "done": true
   },
-  "galosphere:recipes/combat/sterling_chestplate_smithing": {
+  "betternether:recipes/misc/lapis_pile_to_lapis": {
     "criteria": {
-      "has_silver_ingot": "2025-02-07 03:40:30 +0000"
+      "has_lapis_pile": "2025-02-07 04:20:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_hoe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-02-07 04:25:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_hanging_sign": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-02-07 04:25:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_reed_planks": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-02-07 04:25:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_sword": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-02-07 04:25:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shovel": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-02-07 04:25:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/sugar": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-02-07 04:25:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_axe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-02-07 04:25:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/stick": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-02-07 04:25:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_hoe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-02-07 04:25:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_shovel": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-02-07 04:25:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_sword": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-02-07 04:25:35 +0000"
     },
     "done": true
   },
@@ -10294,99 +10300,15 @@
     },
     "done": false
   },
-  "betternether:recipes/building_blocks/roof_tile_nether_brick_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.nether_bricks": "2025-02-07 04:00:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-02-07 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_bricks_roof_tile_nether_bricks": {
-    "criteria": {
-      "has_nether_bricks": "2025-02-07 04:00:31 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/tools/cincinnasite_pickaxe": {
     "criteria": {
       "has_nether_reed_stem": "2025-02-07 04:25:35 +0000"
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/nether_brick_tile_slab_from_brick_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.nether_bricks": "2025-02-07 04:00:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
-    "criteria": {
-      "has_deepslate_diamond_ore": "2025-02-07 00:18:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_boots_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/combat/sterling_leggings_smithing": {
-    "criteria": {
-      "has_silver_ingot": "2025-02-07 03:40:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
-    "criteria": {
-      "has_deepslate_gold_ore": "2025-02-07 00:37:17 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_boots_repairing": {
-    "criteria": {
-      "has_netherite_boots": "2025-02-07 04:55:07 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/cincinnasite_bricks": {
-    "criteria": {
-      "has_nether_brick": "2025-02-07 04:40:37 +0000"
-    },
-    "done": true
-  },
-  "betternether:enter_nether": {
-    "criteria": {
-      "entered_nether": "2025-02-07 03:56:56 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/combat/sonorous_staff": {
-    "criteria": {
-      "has_heart_of_the_deep": "2025-02-07 03:54:16 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/tools/nether_ruby_axe": {
     "criteria": {
       "has_nether_reed_stem": "2025-02-07 04:25:35 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/chainmail_helmet_repairing": {
-    "criteria": {
-      "has_chainmail_helmet": "2025-02-07 01:35:57 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_sword_repairing": {
-    "criteria": {
-      "has_diamond_sword": "2025-02-07 00:35:47 +0000"
     },
     "done": true
   },
@@ -10402,75 +10324,45 @@
     },
     "done": true
   },
-  "aether:recipes/decorations/skyroot_fletching_table": {
+  "betternether:recipes/misc/bn_brown_mushroom": {
     "criteria": {
-      "has_flint": "2025-02-07 00:19:20 +0000"
+      "has_wall_mushroom_brown": "2025-02-07 04:27:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/nether_brick_wall": {
+  "netherexp:recipes/nether_bricks/red_mixed_nether_bricks": {
     "criteria": {
-      "has_nether_bricks": "2025-02-07 04:00:31 +0000"
+      "has_item": "2025-02-07 04:29:02 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/soul_slate/bricks_from_etched": {
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
     "criteria": {
-      "has_item": "2025-02-07 04:02:44 +0000"
+      "has_red_nether_bricks": "2025-02-07 04:29:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
     "criteria": {
-      "has_emerald_ore": "2025-02-07 01:24:22 +0000"
+      "has_red_nether_bricks": "2025-02-07 04:29:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_sword_smithing": {
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
-      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
+      "has_red_nether_bricks": "2025-02-07 04:29:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_brick_slab": {
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
     "criteria": {
-      "has_nether_bricks": "2025-02-07 04:00:31 +0000"
+      "has_red_nether_bricks": "2025-02-07 04:29:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/netherite_hoe_smithing": {
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
-      "has_netherite_ingot": "2025-02-07 03:40:30 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/schist/schist": {
-    "criteria": {
-      "has_item": "2025-02-07 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite": {
-    "criteria": {
-      "has_item": "2025-02-07 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/combat/sterling_helmet_smithing": {
-    "criteria": {
-      "has_silver_ingot": "2025-02-07 03:40:30 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/cincinnasite_anvil": {
-    "criteria": {
-      "has_nether_bricks": "2025-02-07 04:00:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2025-02-07 03:59:28 +0000"
+      "has_red_nether_bricks": "2025-02-07 04:29:02 +0000"
     },
     "done": true
   },
@@ -10480,21 +10372,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "has_diamond_ore": "2025-02-07 01:24:49 +0000"
+      "in_better_fortress": "2025-02-07 04:29:07 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/misc/soul_candle": {
+  "mynethersdelight:recipes/misc/crafting/spicy_skewer": {
     "criteria": {
-      "has_planks": "2025-02-07 04:02:39 +0000"
+      "has_blaze_rod": "2025-02-07 04:30:40 +0000"
     },
     "done": true
   },
-  "betternether:recipes/misc/lapis_pile_to_lapis": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "has_lapis_pile": "2025-02-07 04:20:11 +0000"
+      "blaze_rod": "2025-02-07 04:30:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-07 04:30:40 +0000"
     },
     "done": true
   },
@@ -10504,15 +10402,183 @@
     },
     "done": true
   },
-  "aether:recipes/tools/stone_axe_repairing": {
+  "betternether:recipes/decorations/brick_pot": {
     "criteria": {
-      "has_stone_axe": "2025-02-07 03:12:14 +0000"
+      "has_soul_sand": "2025-02-07 04:32:11 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/crossbow_repairing": {
+  "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
     "criteria": {
-      "has_crossbow": "2025-02-07 03:04:35 +0000"
+      "has_soul_sand": "2025-02-07 04:32:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-02-07 04:32:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
+    "criteria": {
+      "has_soul_sand": "2025-02-07 04:32:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-02-07 04:32:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_sword_repairing": {
+    "criteria": {
+      "has_netherite_sword": "2025-02-07 04:34:28 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_axe_repairing": {
+    "criteria": {
+      "has_golden_axe": "2025-02-07 04:34:35 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_nether": "2025-02-07 04:37:02 +0000"
+    },
+    "done": false
+  },
+  "betternether:recipes/redstone/cincinnasite_brick_plate": {
+    "criteria": {
+      "has_nether_brick": "2025-02-07 04:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-02-07 04:40:37 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-02-07 04:40:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2025-02-07 04:49:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_glowstone_dust": {
+    "criteria": {
+      "has_glowstone_pile": "2025-02-07 04:51:41 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:shipwrecks": {
+    "criteria": {
+      "in_shipwreck_nether_bricks": "2025-02-07 04:54:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-02-07 04:54:53 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-02-07 04:54:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-02-07 04:54:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2025-02-07 04:55:07 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherrack_stalactite_netherrack": {
+    "criteria": {
+      "has_netherrack_stalactite": "2025-02-07 04:58:31 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/spicy_hoglin_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-15 21:01:39 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/block_of_powdery_cannon": {
+    "criteria": {
+      "has_powder_cannon": "2025-02-15 21:02:48 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/spicy_curry": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-15 21:01:39 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/redstone/tnt_alt": {
+    "criteria": {
+      "has_powder_cannon": "2025-02-15 21:02:48 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/bullet_papper_crate_alt": {
+    "criteria": {
+      "has_pepper": "2025-02-15 21:01:39 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/powdery_torch": {
+    "criteria": {
+      "has_powder_cannon": "2025-02-15 21:02:48 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/powdery_plank": {
+    "criteria": {
+      "has_powder_cannon": "2025-02-15 21:02:48 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/bullet_papper_crate": {
+    "criteria": {
+      "has_pepper": "2025-02-15 21:01:39 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/fried_hoglin_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-15 21:01:39 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/stick_alt": {
+    "criteria": {
+      "has_powder_cannon": "2025-02-15 21:02:48 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/hot_wings": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-15 21:01:39 +0000"
     },
     "done": true
   },
