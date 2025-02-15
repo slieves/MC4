@@ -4038,3 +4038,7 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [15Feb2025 23:19:28.262] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/110393, l='ServerLevel[world]', x=11774.50, y=57.00, z=-1827.50]
 [15Feb2025 23:30:03.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2349ms or 46 ticks behind
 [15Feb2025 23:30:11.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Mine? Mine? Mine?]
+[15Feb2025 23:33:25.163] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/120603, l='ServerLevel[world]', x=169.50, y=56.00, z=16.50]
+[15Feb2025 23:34:04.277] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/121137, l='ServerLevel[world]', x=159.50, y=57.00, z=19.50]
+[15Feb2025 23:35:39.868] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/122071, l='ServerLevel[world]', x=155.50, y=62.00, z=19.50]
+[15Feb2025 23:40:47.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Eye of The Storm]

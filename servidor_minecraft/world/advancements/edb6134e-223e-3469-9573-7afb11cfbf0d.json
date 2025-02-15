@@ -17329,6 +17329,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-02-15 23:30:11 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/iron_bulb_lantern_black": {
     "criteria": {
       "has_black_dye": "2025-02-15 21:51:57 +0000"
