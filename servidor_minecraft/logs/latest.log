@@ -3868,3 +3868,35 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [15Feb2025 20:40:03.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer left the game
 [15Feb2025 20:40:03.123] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d2e2f9d0-5f14-3e71-a1c1-1f34957f0684
 [15Feb2025 20:40:21.524] [Server thread/INFO] [TerraBlenderFix/]: Optimizing surface rules
+[15Feb2025 20:45:22.862] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1c4d0e6f[id=<null>,name=Digigamerfer,properties={},legacy=false] (/127.230.65.120:36527) lost connection: Disconnected
+[15Feb2025 20:45:31.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Digigamerfer[/127.230.65.120:46177] logged in with entity id 925 at (87.88929400974195, 66.0, -89.41045378638498)
+[15Feb2025 20:45:31.785] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Digigamerfer
+[15Feb2025 20:45:31.786] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Digigamerfer
+[15Feb2025 20:45:31.786] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Digigamerfer
+[15Feb2025 20:45:31.787] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Digigamerfer
+[15Feb2025 20:45:31.789] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Digigamerfer
+[15Feb2025 20:45:31.794] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Digigamerfer
+[15Feb2025 20:45:31.794] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Digigamerfer
+[15Feb2025 20:45:31.812] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[15Feb2025 20:45:31.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer joined the game
+[15Feb2025 20:45:31.962] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d2e2f9d0-5f14-3e71-a1c1-1f34957f0684
+[15Feb2025 20:45:31.975] [Server thread/INFO] [Jade/]: Syncing config to Digigamerfer (d2e2f9d0-5f14-3e71-a1c1-1f34957f0684)
+[15Feb2025 20:45:32.845] [Server thread/INFO] [ping-wheel/]: Channel update: Digigamerfer -> default
+[15Feb2025 20:45:32.926] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[15Feb2025 20:50:52.575] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JOSHEEEE[/127.41.73.254:33349] logged in with entity id 2067 at (-682.5041593977988, 97.0, 23.264843942608298)
+[15Feb2025 20:50:52.581] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JOSHEEEE
+[15Feb2025 20:50:52.581] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JOSHEEEE
+[15Feb2025 20:50:52.582] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JOSHEEEE
+[15Feb2025 20:50:52.582] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JOSHEEEE
+[15Feb2025 20:50:52.584] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JOSHEEEE
+[15Feb2025 20:50:52.586] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JOSHEEEE
+[15Feb2025 20:50:52.587] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JOSHEEEE
+[15Feb2025 20:50:52.599] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[15Feb2025 20:50:52.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE joined the game
+[15Feb2025 20:50:52.776] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 05c95e7d-3331-3e5a-9d76-5424e66cc84e
+[15Feb2025 20:50:52.788] [Server thread/INFO] [Jade/]: Syncing config to JOSHEEEE (05c95e7d-3331-3e5a-9d76-5424e66cc84e)
+[15Feb2025 20:51:01.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> :O
+[15Feb2025 20:51:06.090] [Server thread/INFO] [ping-wheel/]: Channel update: JOSHEEEE -> default
+[15Feb2025 20:51:06.093] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[15Feb2025 20:54:08.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JOSHEEEE> hello
+[15Feb2025 20:54:24.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> holou
