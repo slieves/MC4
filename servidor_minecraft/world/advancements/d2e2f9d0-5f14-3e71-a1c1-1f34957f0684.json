@@ -5531,6 +5531,7 @@
       "jade_cliffs": "2025-02-10 04:38:09 +0000",
       "old_growth_woodland": "2025-02-10 04:11:42 +0000",
       "maple_woods": "2025-02-05 02:06:03 +0000",
+      "crystalline_chasm": "2025-02-15 22:19:00 +0000",
       "orchard": "2025-02-08 03:38:12 +0000",
       "overgrown_greens": "2025-02-08 03:38:15 +0000",
       "mediterranean_forest": "2025-02-14 02:43:24 +0000",
@@ -10610,7 +10611,8 @@
   },
   "betternether:all_the_biomes": {
     "criteria": {
-      "betternether:crimson_glowing_woods": "2025-02-07 03:50:53 +0000"
+      "betternether:crimson_glowing_woods": "2025-02-07 03:50:53 +0000",
+      "betternether:old_warped_woods": "2025-02-15 22:22:04 +0000"
     },
     "done": false
   },
@@ -10706,7 +10708,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-02-07 04:06:01 +0000"
+      "minecraft:crimson_forest": "2025-02-07 04:06:01 +0000",
+      "minecraft:soul_sand_valley": "2025-02-15 22:17:51 +0000",
+      "minecraft:warped_forest": "2025-02-15 22:21:06 +0000"
     },
     "done": false
   },
@@ -15116,6 +15120,36 @@
     },
     "done": true
   },
+  "netherexp:nether/soul_sand_valley": {
+    "criteria": {
+      "condition": "2025-02-15 22:17:51 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/nether_quartz_knife": {
+    "criteria": {
+      "has_gems/quartz": "2025-02-15 22:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-15 22:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-15 22:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-15 22:18:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/safely_harvest_honey": {
     "criteria": {
       "safely_harvest_honey": "2025-02-15 21:29:42 +0000"
@@ -15128,15 +15162,81 @@
     },
     "done": true
   },
+  "twigs:recipes/bloodstone/bloodstone": {
+    "criteria": {
+      "has_item": "2025-02-15 22:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-15 22:18:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2025-02-15 22:24:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
       "has_honey_bottle": "2025-02-15 21:29:42 +0000"
     },
     "done": true
   },
+  "delightful:recipes/food/cooking/rock_candy": {
+    "criteria": {
+      "has_rose_quartz": "2025-02-15 22:24:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2025-02-15 21:29:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_smelting": {
+    "criteria": {
+      "has_item.minecraft.quartz": "2025-02-15 22:18:43 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_warped": "2025-02-15 22:22:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-15 22:18:43 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:fireproof": {
+    "criteria": {
+      "nether_portal_small_1": "2025-02-15 22:17:51 +0000"
+    },
+    "done": false
+  },
+  "twigs:recipes/schist/schist": {
+    "criteria": {
+      "has_item": "2025-02-15 22:18:43 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite": {
+    "criteria": {
+      "has_item": "2025-02-15 22:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-15 22:18:43 +0000"
     },
     "done": true
   },

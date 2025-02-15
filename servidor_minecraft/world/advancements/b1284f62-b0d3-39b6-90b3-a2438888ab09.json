@@ -16901,6 +16901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-15 22:16:03 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_fancy_bed": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
