@@ -16895,9 +16895,297 @@
     },
     "done": true
   },
+  "everycomp:recipes/building_blocks/db/gardens_of_the_dead/soulblight_support": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_fancy_bed": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/gardens_of_the_dead/soulblight_lattice": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "gardens_of_the_dead:recipes/redstone/soulblight_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/gardens_of_the_dead/stripped_soulblight_post": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_side_table": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/gardens_of_the_dead/soulblight_banister": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "gardens_of_the_dead:recipes/redstone/soulblight_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_table": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "gardens_of_the_dead:recipes/decorations/soulblight_fence": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/gardens_of_the_dead/soulblight_beam": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/gardens_of_the_dead/soulblight_table": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/gardens_of_the_dead/soulblight_chest": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_couch": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_corner_trim": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/gardens_of_the_dead/soulblight_flower_box": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "gardens_of_the_dead:recipes/redstone/soulblight_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "gardens_of_the_dead:recipes/redstone/soulblight_button": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_nightstand": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/gardens_of_the_dead/soulblight_beehive": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/gardens_of_the_dead/soulblight_bench": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vp/gardens_of_the_dead/soulblight_horticulturist_table": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/gardens_of_the_dead/soulblight_vertical_trim": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/gardens_of_the_dead/soulblight_palisade": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_axe_repairing": {
+    "criteria": {
+      "has_wooden_axe": "2025-02-15 21:36:19 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_cupboard": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/gardens_of_the_dead/item_shelf_soulblight": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_chair": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/gardens_of_the_dead/soulblight_shutter": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/gardens_of_the_dead/soulblight_post": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "gardens_of_the_dead:recipes/building_blocks/soulblight_slab": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/gardens_of_the_dead/soulblight_parquet": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/gardens_of_the_dead/soulblight_ladder": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/gardens_of_the_dead/soulblight_sanded_wood": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/gardens_of_the_dead/soulblight_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/netherite/cooking/slab": {
     "criteria": {
       "has_item": "2025-02-15 21:28:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/gardens_of_the_dead/vertical_soulblight_planks": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/gardens_of_the_dead/soulblight_trapped_chest": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_dining_bench": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/gardens_of_the_dead/soulblight_seat": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "gardens_of_the_dead:recipes/building_blocks/soulblight_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_counter": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "gardens_of_the_dead:recipes/redstone/soulblight_door": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_desk": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_pillar_trim": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "gardens_of_the_dead:recipes/decorations/soulblight_sign": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/gardens_of_the_dead/soulblight_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
     },
     "done": true
   },
@@ -16907,15 +17195,87 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_bench": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "chipped:recipes/carpenters_table": {
+    "criteria": {
+      "has_carpenters_table": "2025-02-15 21:37:08 +0000"
+    },
+    "done": true
+  },
   "gardens_of_the_dead:recipes/building_blocks/soulblight_planks": {
     "criteria": {
       "has_logs": "2025-02-15 21:32:53 +0000"
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/gardens_of_the_dead/hollow_soulblight_log": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/gardens_of_the_dead/soulblight_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/gardens_of_the_dead/sign_post_soulblight": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/gardens_of_the_dead/hollow_soulblight_log": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/gardens_of_the_dead/soulblight_chair": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/gardens_of_the_dead/soulblight_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/gardens_of_the_dead/soulblight_trim": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tw/gardens_of_the_dead/soulblight_table": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
   "gardens_of_the_dead:recipes/building_blocks/soulblight_hyphae": {
     "criteria": {
       "has_log": "2025-02-15 21:32:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/gardens_of_the_dead/soulblight_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/gardens_of_the_dead/soulblight_trim_1": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
     },
     "done": true
   },

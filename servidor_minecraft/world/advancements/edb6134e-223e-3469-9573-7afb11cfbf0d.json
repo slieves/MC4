@@ -16871,33 +16871,51 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
+    "criteria": {
+      "has_warden_upgrade_smithing_template": "2025-02-15 05:33:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
       "has_soul_torch": "2025-02-15 05:37:30 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
+  "twigs:recipes/lamps/soul_lamp": {
     "criteria": {
-      "tamed_animal": "2025-02-15 06:52:43 +0000"
+      "has_item": "2025-02-15 05:37:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_banner": {
+  "decorative_blocks:recipes/decorations/soul_torch_from_soul_chandelier": {
     "criteria": {
-      "has_cyan_wool": "2025-02-15 06:05:05 +0000"
+      "has_torch": "2025-02-15 05:37:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_lamp": {
+  "decorative_blocks:recipes/decorations/soul_chandelier": {
     "criteria": {
-      "has_glowstone": "2025-02-15 06:51:22 +0000"
+      "has_torch": "2025-02-15 05:37:30 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/blue_sheet": {
+  "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
-      "has_blue_sheet": "2025-02-15 06:04:59 +0000"
+      "has_honeycomb": "2025-02-15 05:45:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-02-15 05:45:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-02-15 05:45:01 +0000"
     },
     "done": true
   },
@@ -16913,24 +16931,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_carpet": {
-    "criteria": {
-      "has_blue_wool": "2025-02-15 06:04:59 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/cyan_sofa": {
-    "criteria": {
-      "has_wool": "2025-02-15 06:05:05 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/lamps/soul_lamp": {
-    "criteria": {
-      "has_item": "2025-02-15 05:37:30 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/light_blue_stool": {
     "criteria": {
       "has_wool": "2025-02-15 06:04:57 +0000"
@@ -16943,45 +16943,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/cyan_sheet": {
-    "criteria": {
-      "has_cyan_sheet": "2025-02-15 06:05:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_bed": {
-    "criteria": {
-      "has_blue_wool": "2025-02-15 06:04:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_blue_carpet": {
     "criteria": {
       "has_light_blue_wool": "2025-02-15 06:04:57 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
-    "criteria": {
-      "cooked_chicken_cuts": "2025-02-15 07:05:17 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/cyan_curtain": {
-    "criteria": {
-      "has_wool": "2025-02-15 06:05:05 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/building_blocks/block_of_powdery_cannon": {
-    "criteria": {
-      "has_powder_cannon": "2025-02-15 06:59:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_carpet": {
-    "criteria": {
-      "has_cyan_wool": "2025-02-15 06:05:05 +0000"
     },
     "done": true
   },
@@ -16991,9 +16955,69 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/cyan_cushion": {
+  "another_furniture:recipes/light_blue_sofa": {
     "criteria": {
-      "has_cyan_cushion": "2025-02-15 06:05:05 +0000"
+      "has_wool": "2025-02-15 06:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-15 06:04:57 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-15 06:04:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_blue_sheet": {
+    "criteria": {
+      "has_light_blue_sheet": "2025-02-15 06:04:57 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-15 06:04:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_blue_cushion": {
+    "criteria": {
+      "has_light_blue_cushion": "2025-02-15 06:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-15 06:04:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/blue_cape_light_blue_wool": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-15 06:04:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_sheet": {
+    "criteria": {
+      "has_blue_sheet": "2025-02-15 06:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-02-15 06:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-02-15 06:04:59 +0000"
     },
     "done": true
   },
@@ -17009,87 +17033,15 @@
     },
     "done": true
   },
-  "mynethersdelight:recipes/cooking/spicy_curry": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-15 07:02:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/honeycomb_block": {
-    "criteria": {
-      "has_honeycomb": "2025-02-15 05:45:01 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/redstone/tnt_alt": {
-    "criteria": {
-      "has_powder_cannon": "2025-02-15 06:59:53 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/bullet_papper_crate_alt": {
-    "criteria": {
-      "has_pepper": "2025-02-15 07:02:54 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
-    "criteria": {
-      "has_warden_upgrade_smithing_template": "2025-02-15 05:33:57 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/blue_tall_stool": {
     "criteria": {
       "has_wool": "2025-02-15 06:04:59 +0000"
     },
     "done": true
   },
-  "another_furniture:recipes/light_blue_sofa": {
-    "criteria": {
-      "has_wool": "2025-02-15 06:04:57 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/blue_curtain": {
     "criteria": {
       "has_wool": "2025-02-15 06:04:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_bed": {
-    "criteria": {
-      "has_light_blue_wool": "2025-02-15 06:04:57 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/powdery_torch": {
-    "criteria": {
-      "has_powder_cannon": "2025-02-15 06:59:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_bed": {
-    "criteria": {
-      "has_cyan_wool": "2025-02-15 06:05:05 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/cyan_tall_stool": {
-    "criteria": {
-      "has_wool": "2025-02-15 06:05:05 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_light_blue": {
-    "criteria": {
-      "has_light_blue_wool": "2025-02-15 06:04:57 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/building_blocks/powdery_plank": {
-    "criteria": {
-      "has_powder_cannon": "2025-02-15 06:59:53 +0000"
     },
     "done": true
   },
@@ -17111,45 +17063,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/blue_cape_cyan_wool": {
-    "criteria": {
-      "has_cyan_wool": "2025-02-15 06:05:05 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/light_blue_sheet": {
-    "criteria": {
-      "has_light_blue_sheet": "2025-02-15 06:04:57 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_light_blue": {
-    "criteria": {
-      "has_light_blue_wool": "2025-02-15 06:04:57 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_blue": {
     "criteria": {
       "has_blue_wool": "2025-02-15 06:04:59 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/cincinnasite_lantern": {
-    "criteria": {
-      "has_glowstone": "2025-02-15 06:51:22 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_cyan": {
-    "criteria": {
-      "has_cyan_wool": "2025-02-15 06:05:05 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/light_blue_cushion": {
-    "criteria": {
-      "has_light_blue_cushion": "2025-02-15 06:04:57 +0000"
     },
     "done": true
   },
@@ -17159,81 +17075,75 @@
     },
     "done": true
   },
-  "mynethersdelight:recipes/building_blocks/bullet_papper_crate": {
+  "another_furniture:recipes/blue_lamp": {
     "criteria": {
-      "has_pepper": "2025-02-15 07:02:54 +0000"
+      "has_wool": "2025-02-15 06:04:59 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
+  "minecraft:recipes/decorations/cyan_banner": {
     "criteria": {
-      "cooked_chicken_cuts": "2025-02-15 07:05:17 +0000"
+      "has_cyan_wool": "2025-02-15 06:05:05 +0000"
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorations/soul_torch_from_soul_chandelier": {
+  "another_furniture:recipes/cyan_sofa": {
     "criteria": {
-      "has_torch": "2025-02-15 05:37:30 +0000"
+      "has_wool": "2025-02-15 06:05:05 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_chicken_cuts": {
+  "handcrafted:recipes/misc/cyan_sheet": {
     "criteria": {
-      "cooked_chicken_cuts": "2025-02-15 07:05:17 +0000"
+      "has_cyan_sheet": "2025-02-15 06:05:05 +0000"
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorations/soul_chandelier": {
+  "another_furniture:recipes/cyan_curtain": {
     "criteria": {
-      "has_torch": "2025-02-15 05:37:30 +0000"
+      "has_wool": "2025-02-15 06:05:05 +0000"
     },
     "done": true
   },
-  "aether:recipes/decorations/skyroot_beehive": {
+  "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
-      "has_honeycomb": "2025-02-15 05:45:01 +0000"
+      "has_cyan_wool": "2025-02-15 06:05:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cyan_cushion": {
+    "criteria": {
+      "has_cyan_cushion": "2025-02-15 06:05:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-02-15 06:05:05 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-02-15 06:05:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/blue_cape_cyan_wool": {
+    "criteria": {
+      "has_cyan_wool": "2025-02-15 06:05:05 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2025-02-15 06:05:05 +0000"
     },
     "done": true
   },
   "another_furniture:recipes/cyan_stool": {
     "criteria": {
       "has_wool": "2025-02-15 06:05:05 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/harvest_ropelogged_tomato": {
-    "criteria": {
-      "harvest_ropelogged_tomato": "2025-02-15 06:40:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/beehive": {
-    "criteria": {
-      "has_honeycomb": "2025-02-15 05:45:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_banner": {
-    "criteria": {
-      "has_light_blue_wool": "2025-02-15 06:04:57 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/stick_alt": {
-    "criteria": {
-      "has_powder_cannon": "2025-02-15 06:59:53 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/hot_wings": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-15 07:02:54 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/blue_lamp": {
-    "criteria": {
-      "has_wool": "2025-02-15 06:04:59 +0000"
     },
     "done": true
   },
@@ -17249,15 +17159,105 @@
     },
     "done": true
   },
+  "farmersdelight:main/harvest_ropelogged_tomato": {
+    "criteria": {
+      "harvest_ropelogged_tomato": "2025-02-15 06:40:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-02-15 06:51:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_lantern": {
+    "criteria": {
+      "has_glowstone": "2025-02-15 06:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-15 06:52:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-02-15 06:55:47 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/blue_cape_light_blue_wool": {
+  "mynethersdelight:recipes/building_blocks/block_of_powdery_cannon": {
     "criteria": {
-      "has_light_blue_wool": "2025-02-15 06:04:57 +0000"
+      "has_powder_cannon": "2025-02-15 06:59:53 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/redstone/tnt_alt": {
+    "criteria": {
+      "has_powder_cannon": "2025-02-15 06:59:53 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/powdery_torch": {
+    "criteria": {
+      "has_powder_cannon": "2025-02-15 06:59:53 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/powdery_plank": {
+    "criteria": {
+      "has_powder_cannon": "2025-02-15 06:59:53 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/stick_alt": {
+    "criteria": {
+      "has_powder_cannon": "2025-02-15 06:59:53 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/spicy_curry": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-15 07:02:54 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/bullet_papper_crate_alt": {
+    "criteria": {
+      "has_pepper": "2025-02-15 07:02:54 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/bullet_papper_crate": {
+    "criteria": {
+      "has_pepper": "2025-02-15 07:02:54 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/hot_wings": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-15 07:02:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-02-15 07:05:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-02-15 07:05:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-02-15 07:05:17 +0000"
     },
     "done": true
   },
