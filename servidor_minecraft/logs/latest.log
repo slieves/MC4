@@ -78,3 +78,25 @@
 [16Feb2025 01:36:14.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2527ms or 50 ticks behind
 [16Feb2025 01:45:15.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2848ms or 56 ticks behind
 [16Feb2025 01:45:36.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6344ms or 126 ticks behind
+[16Feb2025 01:47:19.064] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/246037, l='ServerLevel[world]', x=175.50, y=53.00, z=11.50]
+[16Feb2025 01:54:59.846] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Digigamerfer lost connection: Disconnected
+[16Feb2025 01:54:59.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer left the game
+[16Feb2025 01:54:59.847] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d2e2f9d0-5f14-3e71-a1c1-1f34957f0684
+[16Feb2025 01:58:36.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Hidden in the Depths]
+[16Feb2025 02:03:51.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [A fortress? No, a citadel!]
+[16Feb2025 02:05:39.629] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Digigamerfer[/127.230.65.120:46861] logged in with entity id 261054 at (145.18505595188154, 73.0, -75.47844581106266)
+[16Feb2025 02:05:39.635] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Digigamerfer
+[16Feb2025 02:05:39.635] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Digigamerfer
+[16Feb2025 02:05:39.635] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Digigamerfer
+[16Feb2025 02:05:39.636] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Digigamerfer
+[16Feb2025 02:05:39.637] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Digigamerfer
+[16Feb2025 02:05:39.639] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Digigamerfer
+[16Feb2025 02:05:39.639] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Digigamerfer
+[16Feb2025 02:05:39.649] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[16Feb2025 02:05:39.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer joined the game
+[16Feb2025 02:05:39.714] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d2e2f9d0-5f14-3e71-a1c1-1f34957f0684
+[16Feb2025 02:05:39.722] [Server thread/INFO] [Jade/]: Syncing config to Digigamerfer (d2e2f9d0-5f14-3e71-a1c1-1f34957f0684)
+[16Feb2025 02:05:40.001] [Server thread/INFO] [ping-wheel/]: Channel update: Digigamerfer -> default
+[16Feb2025 02:05:40.001] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[16Feb2025 02:06:17.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Drop it like it's hot]
+[16Feb2025 02:06:56.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2880ms or 57 ticks behind

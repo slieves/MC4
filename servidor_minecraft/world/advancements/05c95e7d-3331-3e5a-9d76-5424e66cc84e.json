@@ -10677,6 +10677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-16 01:58:36 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/netherite_trapdoor": {
     "criteria": {
       "has_netherite_scrap": "2025-02-16 01:00:55 +0000"
@@ -10941,6 +10947,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-16 01:58:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_plate_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-16 01:06:33 +0000"
@@ -11073,6 +11085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-02-16 01:57:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-16 01:01:59 +0000"
@@ -11151,6 +11169,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-16 01:57:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-02-16 01:01:59 +0000"
@@ -11184,6 +11208,12 @@
   "stoneworks:recipes/building_blocks/basalt_shingle_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-16 01:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-02-16 01:58:36 +0000"
     },
     "done": true
   },
