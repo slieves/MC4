@@ -18041,5 +18041,17 @@
     },
     "done": true
   },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-02-16 05:24:12 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:monuments": {
+    "criteria": {
+      "in_monument_icy": "2025-02-16 05:23:52 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

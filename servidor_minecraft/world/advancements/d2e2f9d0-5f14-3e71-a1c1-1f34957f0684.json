@@ -10619,6 +10619,7 @@
   },
   "betternether:all_the_biomes": {
     "criteria": {
+      "betternether:crimson_pinewood": "2025-02-16 05:17:09 +0000",
       "betternether:crimson_glowing_woods": "2025-02-07 03:50:53 +0000",
       "betternether:old_warped_woods": "2025-02-15 22:22:04 +0000"
     },
@@ -15232,7 +15233,8 @@
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
-      "in_mineshaft_warped": "2025-02-15 22:22:24 +0000"
+      "in_mineshaft_warped": "2025-02-15 22:22:24 +0000",
+      "in_mineshaft_crimson": "2025-02-16 05:20:19 +0000"
     },
     "done": false
   },
@@ -15791,6 +15793,30 @@
   "betterend:recipes/misc/quartz_lantern": {
     "criteria": {
       "has_quartz_slab": "2025-02-16 02:33:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-02-16 05:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-02-16 05:24:14 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_block": {
+    "criteria": {
+      "has_cincinnasite": "2025-02-16 05:21:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-02-16 05:21:52 +0000"
     },
     "done": true
   },
