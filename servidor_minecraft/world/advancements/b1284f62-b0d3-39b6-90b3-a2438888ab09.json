@@ -16907,15 +16907,27 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/willow_fence_gate": {
+  "netherexp:recipes/netherite/cooking/slab": {
     "criteria": {
-      "has_planks": "2025-02-16 01:05:24 +0000"
+      "has_item": "2025-02-15 21:28:30 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/bp/biomesoplenty/willow_backpack_shelf": {
+  "netherexp:recipes/netherite/cooking/stairs": {
     "criteria": {
-      "has_planks": "2025-02-16 01:05:24 +0000"
+      "has_item": "2025-02-15 21:28:30 +0000"
+    },
+    "done": true
+  },
+  "gardens_of_the_dead:recipes/building_blocks/soulblight_planks": {
+    "criteria": {
+      "has_logs": "2025-02-15 21:32:53 +0000"
+    },
+    "done": true
+  },
+  "gardens_of_the_dead:recipes/building_blocks/soulblight_hyphae": {
+    "criteria": {
+      "has_log": "2025-02-15 21:32:53 +0000"
     },
     "done": true
   },
@@ -16925,87 +16937,15 @@
     },
     "done": true
   },
-  "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
-    "criteria": {
-      "forge:dyes/white": "2025-02-15 22:49:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-02-15 22:16:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-02-15 23:24:22 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_fancy_bed": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/terracotta_medium_pot": {
-    "criteria": {
-      "has_terracotta_medium_pot": "2025-02-15 23:24:22 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/silt/silt_from_clay": {
-    "criteria": {
-      "has_item": "2025-02-15 22:40:20 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/white_plate": {
-    "criteria": {
-      "has_white_plate": "2025-02-15 22:49:21 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hnhome/gardens_of_the_dead/soulblight_lattice": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/willow_drawer": {
-    "criteria": {
-      "has_planks": "2025-02-16 01:05:24 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/thallasium_bulb_lantern_white": {
-    "criteria": {
-      "has_white_dye": "2025-02-15 22:49:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/terracotta": {
-    "criteria": {
-      "has_clay_block": "2025-02-15 22:40:20 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/biomesoplenty/willow_shelf": {
-    "criteria": {
-      "has_planks": "2025-02-16 01:05:24 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/biomesoplenty/willow_chair": {
-    "criteria": {
-      "has_planks": "2025-02-16 01:05:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-02-15 23:24:22 +0000"
     },
     "done": true
   },
@@ -17021,27 +16961,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_tulip": {
-    "criteria": {
-      "has_red_flower": "2025-02-16 00:36:13 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_side_table": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/willow_fancy_bed": {
-    "criteria": {
-      "has_planks": "2025-02-16 01:05:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-02-15 23:24:22 +0000"
     },
     "done": true
   },
@@ -17051,33 +16973,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/white_crockery_combo": {
-    "criteria": {
-      "has_white_crockery_combo": "2025-02-15 22:49:21 +0000"
-    },
-    "done": true
-  },
   "gardens_of_the_dead:recipes/redstone/soulblight_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-02-15 23:24:22 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/quartz_glass_white": {
-    "criteria": {
-      "has_white_dye": "2025-02-15 22:49:21 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/terracotta_wide_pot": {
-    "criteria": {
-      "has_terracotta_wide_pot": "2025-02-15 23:24:22 +0000"
     },
     "done": true
   },
@@ -17087,45 +16985,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/white_bowl": {
-    "criteria": {
-      "has_white_bowl": "2025-02-15 22:49:21 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/willow_dining_bench": {
-    "criteria": {
-      "has_planks": "2025-02-16 01:05:24 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/willow_cupboard": {
-    "criteria": {
-      "has_planks": "2025-02-16 01:05:24 +0000"
-    },
-    "done": true
-  },
   "gardens_of_the_dead:recipes/decorations/soulblight_fence": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-02-15 22:49:21 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/willow_planks": {
-    "criteria": {
-      "has_logs": "2025-02-16 00:25:23 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/biomesoplenty/willow_trim_1": {
-    "criteria": {
-      "has_planks": "2025-02-16 01:05:24 +0000"
     },
     "done": true
   },
@@ -17141,42 +17003,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-02-15 22:49:21 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/willow_wood": {
-    "criteria": {
-      "has_log": "2025-02-16 00:25:23 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/biomesoplenty/willow_lattice": {
-    "criteria": {
-      "has_planks": "2025-02-16 01:05:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-02-15 23:24:22 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/willow_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-02-16 01:05:24 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/willow_side_table": {
-    "criteria": {
-      "has_planks": "2025-02-16 01:05:24 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/q/gardens_of_the_dead/soulblight_chest": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
@@ -17189,9 +17015,489 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/hc/biomesoplenty/willow_desk": {
+  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_corner_trim": {
     "criteria": {
-      "has_planks": "2025-02-16 01:05:24 +0000"
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/gardens_of_the_dead/soulblight_flower_box": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "gardens_of_the_dead:recipes/redstone/soulblight_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "gardens_of_the_dead:recipes/redstone/soulblight_button": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_nightstand": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/gardens_of_the_dead/soulblight_beehive": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/gardens_of_the_dead/soulblight_bench": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vp/gardens_of_the_dead/soulblight_horticulturist_table": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/gardens_of_the_dead/soulblight_vertical_trim": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/gardens_of_the_dead/soulblight_palisade": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_cupboard": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/gardens_of_the_dead/item_shelf_soulblight": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_chair": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/gardens_of_the_dead/soulblight_shutter": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/gardens_of_the_dead/soulblight_post": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "gardens_of_the_dead:recipes/building_blocks/soulblight_slab": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/gardens_of_the_dead/soulblight_parquet": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/gardens_of_the_dead/soulblight_ladder": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/gardens_of_the_dead/soulblight_sanded_wood": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/gardens_of_the_dead/soulblight_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/gardens_of_the_dead/vertical_soulblight_planks": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/gardens_of_the_dead/soulblight_trapped_chest": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_dining_bench": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/gardens_of_the_dead/soulblight_seat": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "gardens_of_the_dead:recipes/building_blocks/soulblight_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_counter": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "gardens_of_the_dead:recipes/redstone/soulblight_door": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_desk": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_pillar_trim": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "gardens_of_the_dead:recipes/decorations/soulblight_sign": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/gardens_of_the_dead/soulblight_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_bench": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/gardens_of_the_dead/hollow_soulblight_log": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/gardens_of_the_dead/soulblight_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/gardens_of_the_dead/sign_post_soulblight": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/gardens_of_the_dead/hollow_soulblight_log": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/gardens_of_the_dead/soulblight_chair": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/gardens_of_the_dead/soulblight_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/gardens_of_the_dead/soulblight_trim": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tw/gardens_of_the_dead/soulblight_table": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/gardens_of_the_dead/soulblight_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/gardens_of_the_dead/soulblight_trim_1": {
+    "criteria": {
+      "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_axe_repairing": {
+    "criteria": {
+      "has_wooden_axe": "2025-02-15 21:36:19 +0000"
+    },
+    "done": true
+  },
+  "chipped:recipes/carpenters_table": {
+    "criteria": {
+      "has_carpenters_table": "2025-02-15 21:37:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-15 22:16:03 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-02-15 22:39:26 +0000"
+    },
+    "done": false
+  },
+  "twigs:recipes/silt/silt_from_clay": {
+    "criteria": {
+      "has_item": "2025-02-15 22:40:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-02-15 22:40:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
+    "criteria": {
+      "forge:dyes/white": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_plate": {
+    "criteria": {
+      "has_white_plate": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_bulb_lantern_white": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_crockery_combo": {
+    "criteria": {
+      "has_white_crockery_combo": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_white": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_bowl": {
+    "criteria": {
+      "has_white_bowl": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cup": {
+    "criteria": {
+      "has_white_cup": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_framed_white": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_pane_white": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_white": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/hydralux_petal_block_white": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_bulb_lantern_white": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/iron_bulb_lantern_white": {
+    "criteria": {
+      "has_white_dye": "2025-02-15 22:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_medium_pot": {
+    "criteria": {
+      "has_terracotta_medium_pot": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_wide_pot": {
+    "criteria": {
+      "has_terracotta_wide_pot": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
     },
     "done": true
   },
@@ -17213,6 +17519,246 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_plate": {
+    "criteria": {
+      "has_terracotta_plate": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/terracotta_bricks": {
+    "criteria": {
+      "has_item": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/shingles": {
+    "criteria": {
+      "has_item": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_cup": {
+    "criteria": {
+      "has_terracotta_cup": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_bowl": {
+    "criteria": {
+      "has_terracotta_bowl": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_thick_pot": {
+    "criteria": {
+      "has_terracotta_thick_pot": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-02-15 23:26:03 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-02-15 23:41:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/willow_planks": {
+    "criteria": {
+      "has_logs": "2025-02-16 00:25:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/willow_wood": {
+    "criteria": {
+      "has_log": "2025-02-16 00:25:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-02-16 00:36:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_lavender": "2025-02-16 00:36:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-02-16 00:42:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-02-16 00:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2025-02-16 00:42:45 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-02-16 00:49:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-02-16 00:54:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/willow_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/biomesoplenty/willow_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/willow_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/willow_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/willow_chair": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/willow_fancy_bed": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/willow_dining_bench": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/willow_cupboard": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/willow_trim_1": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/willow_lattice": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/willow_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/willow_side_table": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/willow_desk": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/biomesoplenty/willow_corner_trim": {
     "criteria": {
       "has_planks": "2025-02-16 01:05:24 +0000"
@@ -17225,81 +17771,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-02-15 23:24:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-02-15 22:49:21 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_corner_trim": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/gardens_of_the_dead/soulblight_flower_box": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/af/biomesoplenty/willow_table": {
     "criteria": {
       "has_planks": "2025-02-16 01:05:24 +0000"
-    },
-    "done": true
-  },
-  "gardens_of_the_dead:recipes/redstone/soulblight_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-02-15 22:49:21 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_drawer": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "gardens_of_the_dead:recipes/redstone/soulblight_button": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-02-15 22:49:21 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_nightstand": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/white_cup": {
-    "criteria": {
-      "has_white_cup": "2025-02-15 22:49:21 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/quartz_glass_framed_white": {
-    "criteria": {
-      "has_white_dye": "2025-02-15 22:49:21 +0000"
     },
     "done": true
   },
@@ -17309,39 +17783,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/faf/gardens_of_the_dead/soulblight_beehive": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/gardens_of_the_dead/soulblight_bench": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
-    "criteria": {
-      "has_peony": "2025-02-16 00:42:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-02-15 23:24:22 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/q/biomesoplenty/hollow_willow_log": {
     "criteria": {
       "has_planks": "2025-02-16 01:05:24 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_shelf": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
     },
     "done": true
   },
@@ -17357,69 +17801,15 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/vp/gardens_of_the_dead/soulblight_horticulturist_table": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_candle": {
-    "criteria": {
-      "has_white_dye": "2025-02-15 22:49:21 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/gardens_of_the_dead/soulblight_vertical_trim": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/building_blocks/db/gardens_of_the_dead/soulblight_palisade": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/tf/biomesoplenty/hollow_willow_log": {
     "criteria": {
       "has_planks": "2025-02-16 01:05:24 +0000"
     },
     "done": true
   },
-  "aether:recipes/tools/wooden_axe_repairing": {
-    "criteria": {
-      "has_wooden_axe": "2025-02-15 21:36:19 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_cupboard": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "suppsquared:recipes/decorations/gardens_of_the_dead/item_shelf_soulblight": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/biomesoplenty/willow_couch": {
     "criteria": {
       "has_planks": "2025-02-16 01:05:24 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_chair": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_merchant_campsite": {
-    "criteria": {
-      "location0": "2025-02-16 00:49:03 +0000"
     },
     "done": true
   },
@@ -17435,27 +17825,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/af/gardens_of_the_dead/soulblight_shutter": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-02-15 22:49:21 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/willow_slab": {
     "criteria": {
       "has_planks": "2025-02-16 01:05:24 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/gardens_of_the_dead/soulblight_post": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
     },
     "done": true
   },
@@ -17471,33 +17843,9 @@
     },
     "done": true
   },
-  "gardens_of_the_dead:recipes/building_blocks/soulblight_slab": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
-    "criteria": {
-      "has_lavender": "2025-02-16 00:36:21 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/gardens_of_the_dead/soulblight_parquet": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/q/biomesoplenty/willow_post": {
     "criteria": {
       "has_planks": "2025-02-16 01:05:24 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/gardens_of_the_dead/soulblight_ladder": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
     },
     "done": true
   },
@@ -17507,33 +17855,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_glazed_terracotta": {
-    "criteria": {
-      "has_white_terracotta": "2025-02-15 23:26:03 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/tw/biomesoplenty/willow_table": {
     "criteria": {
       "has_planks": "2025-02-16 01:05:24 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/gardens_of_the_dead/soulblight_sanded_wood": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-02-15 23:24:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_glazed_terracotta": {
-    "criteria": {
-      "has_brown_terracotta": "2025-02-16 00:42:45 +0000"
     },
     "done": true
   },
@@ -17561,33 +17885,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/q/gardens_of_the_dead/soulblight_bookshelf": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_dye": {
-    "criteria": {
-      "has_white_dye": "2025-02-15 22:49:21 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/netherite/cooking/slab": {
-    "criteria": {
-      "has_item": "2025-02-15 21:28:30 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hnhome/biomesoplenty/willow_trim": {
     "criteria": {
       "has_planks": "2025-02-16 01:05:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-02-15 23:24:22 +0000"
     },
     "done": true
   },
@@ -17597,57 +17897,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/guster": {
-    "criteria": {
-      "killed_by": "2025-02-15 23:41:18 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/gardens_of_the_dead/vertical_soulblight_planks": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/quartz_glass_pane_white": {
-    "criteria": {
-      "has_white_dye": "2025-02-15 22:49:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-02-15 23:24:22 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/q/biomesoplenty/willow_trapped_chest": {
     "criteria": {
       "has_planks": "2025-02-16 01:05:24 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/gardens_of_the_dead/soulblight_trapped_chest": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_dining_bench": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/terracotta_plate": {
-    "criteria": {
-      "has_terracotta_plate": "2025-02-15 23:24:22 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/quartz_glass_framed_pane_white": {
-    "criteria": {
-      "has_white_dye": "2025-02-15 22:49:21 +0000"
     },
     "done": true
   },
@@ -17657,51 +17909,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lime_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-02-15 23:24:22 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/q/biomesoplenty/willow_ladder": {
     "criteria": {
       "has_planks": "2025-02-16 01:05:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
-    "criteria": {
-      "has_pink_tulip": "2025-02-16 00:54:36 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/biomesoplenty/willow_table": {
     "criteria": {
       "has_planks": "2025-02-16 01:05:24 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/building_blocks/db/gardens_of_the_dead/soulblight_seat": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "gardens_of_the_dead:recipes/building_blocks/soulblight_stairs": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_counter": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "gardens_of_the_dead:recipes/redstone/soulblight_door": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
     },
     "done": true
   },
@@ -17735,39 +17951,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_desk": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-02-15 23:24:22 +0000"
-    },
-    "done": true
-  },
-  "hearth_and_home:recipes/terracotta_bricks": {
-    "criteria": {
-      "has_item": "2025-02-15 23:24:22 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_pillar_trim": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/faf/biomesoplenty/willow_beehive": {
     "criteria": {
       "has_planks": "2025-02-16 01:05:24 +0000"
-    },
-    "done": true
-  },
-  "gardens_of_the_dead:recipes/decorations/soulblight_sign": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
     },
     "done": true
   },
@@ -17777,35 +17963,11 @@
     },
     "done": true
   },
-  "hearth_and_home:recipes/shingles": {
-    "criteria": {
-      "has_item": "2025-02-15 23:24:22 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/q/biomesoplenty/willow_chest": {
     "criteria": {
       "has_planks": "2025-02-16 01:05:24 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-02-15 22:49:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-02-15 23:24:22 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/kill_all_sculk_mobs": {
-    "criteria": {
-      "phantom": "2025-02-15 22:39:26 +0000"
-    },
-    "done": false
   },
   "everycomp:recipes/decorations/hnhome/biomesoplenty/willow_vertical_trim": {
     "criteria": {
@@ -17819,60 +17981,6 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/bp/gardens_of_the_dead/soulblight_backpack_shelf": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/terracotta_cup": {
-    "criteria": {
-      "has_terracotta_cup": "2025-02-15 23:24:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-02-16 00:42:40 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/netherite/cooking/stairs": {
-    "criteria": {
-      "has_item": "2025-02-15 21:28:30 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/hydralux_petal_block_white": {
-    "criteria": {
-      "has_white_dye": "2025-02-15 22:49:21 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_bench": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-02-15 23:24:22 +0000"
-    },
-    "done": true
-  },
-  "chipped:recipes/carpenters_table": {
-    "criteria": {
-      "has_carpenters_table": "2025-02-15 21:37:08 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/terminite_bulb_lantern_white": {
-    "criteria": {
-      "has_white_dye": "2025-02-15 22:49:21 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/building_blocks/db/biomesoplenty/willow_support": {
     "criteria": {
       "has_planks": "2025-02-16 01:05:24 +0000"
@@ -17882,12 +17990,6 @@
   "biomesoplenty:recipes/redstone/willow_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-16 01:05:24 +0000"
-    },
-    "done": true
-  },
-  "gardens_of_the_dead:recipes/building_blocks/soulblight_planks": {
-    "criteria": {
-      "has_logs": "2025-02-15 21:32:53 +0000"
     },
     "done": true
   },
@@ -17909,105 +18011,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gray_dye": {
-    "criteria": {
-      "has_white_dye": "2025-02-15 22:49:21 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/gardens_of_the_dead/hollow_soulblight_log": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-02-15 22:49:21 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/gardens_of_the_dead/soulblight_drawer": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/gardens_of_the_dead/sign_post_soulblight": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/tf/gardens_of_the_dead/hollow_soulblight_log": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/terracotta_bowl": {
-    "criteria": {
-      "has_terracotta_bowl": "2025-02-15 23:24:22 +0000"
-    },
-    "done": true
-  },
   "suppsquared:recipes/decorations/biomesoplenty/item_shelf_willow": {
     "criteria": {
       "has_planks": "2025-02-16 01:05:24 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/af/gardens_of_the_dead/soulblight_chair": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-02-15 23:24:22 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/fd/gardens_of_the_dead/soulblight_cabinet": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/gardens_of_the_dead/soulblight_trim": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/af/biomesoplenty/willow_bench": {
     "criteria": {
       "has_planks": "2025-02-16 01:05:24 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/terracotta_thick_pot": {
-    "criteria": {
-      "has_terracotta_thick_pot": "2025-02-15 23:24:22 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/tw/gardens_of_the_dead/soulblight_table": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
-  "gardens_of_the_dead:recipes/building_blocks/soulblight_hyphae": {
-    "criteria": {
-      "has_log": "2025-02-15 21:32:53 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/iron_bulb_lantern_white": {
-    "criteria": {
-      "has_white_dye": "2025-02-15 22:49:21 +0000"
     },
     "done": true
   },
@@ -18023,21 +18035,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/af/gardens_of_the_dead/soulblight_shelf": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/biomesoplenty/willow_bench": {
     "criteria": {
       "has_planks": "2025-02-16 01:05:24 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/gardens_of_the_dead/soulblight_trim_1": {
-    "criteria": {
-      "has_planks": "2025-02-15 21:36:04 +0000"
     },
     "done": true
   },
