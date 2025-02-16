@@ -47,3 +47,21 @@
 [16Feb2025 00:40:29.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 moved wrongly!
 [16Feb2025 00:40:59.426] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Olinda'/173875, l='ServerLevel[world]', x=-2646.30, y=48.00, z=86.77] died, message: 'Olinda was slain by Zombie'
 [16Feb2025 00:40:59.426] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Olinda'/173875, l='ServerLevel[world]', x=-2646.30, y=48.00, z=86.77] died: Olinda was slain by Zombie
+[16Feb2025 00:44:54.893] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ccfa265[id=<null>,name=JOSHEEEE,properties={},legacy=false] (/127.41.73.254:34041) lost connection: Disconnected
+[16Feb2025 00:45:26.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JOSHEEEE[/127.41.73.254:58563] logged in with entity id 183061 at (139.30000001192093, 88.0, 386.30000001192093)
+[16Feb2025 00:45:26.494] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JOSHEEEE
+[16Feb2025 00:45:26.494] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JOSHEEEE
+[16Feb2025 00:45:26.494] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JOSHEEEE
+[16Feb2025 00:45:26.495] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JOSHEEEE
+[16Feb2025 00:45:26.496] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JOSHEEEE
+[16Feb2025 00:45:26.498] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JOSHEEEE
+[16Feb2025 00:45:26.498] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JOSHEEEE
+[16Feb2025 00:45:26.509] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[16Feb2025 00:45:26.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE joined the game
+[16Feb2025 00:45:26.598] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 05c95e7d-3331-3e5a-9d76-5424e66cc84e
+[16Feb2025 00:45:26.608] [Server thread/INFO] [Jade/]: Syncing config to JOSHEEEE (05c95e7d-3331-3e5a-9d76-5424e66cc84e)
+[16Feb2025 00:45:37.498] [Server thread/INFO] [ping-wheel/]: Channel update: JOSHEEEE -> default
+[16Feb2025 00:45:37.498] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[16Feb2025 00:49:03.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3591ms or 71 ticks behind
+[16Feb2025 00:53:55.433] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Bradley'/174375, l='ServerLevel[world]', x=-2647.30, y=70.42, z=76.02] died, message: 'Bradley was slain by Zombie'
+[16Feb2025 00:53:55.434] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Bradley'/174375, l='ServerLevel[world]', x=-2647.30, y=70.42, z=76.02] died: Bradley was slain by Zombie

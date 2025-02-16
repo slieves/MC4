@@ -15158,6 +15158,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_moss": {
+    "criteria": {
+      "has_item": "2025-02-16 00:43:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2025-02-15 22:46:19 +0000"
@@ -15227,6 +15233,12 @@
   "stoneworks:recipes/building_blocks/quartz_paver_slab_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-15 22:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-02-16 00:43:50 +0000"
     },
     "done": true
   },
@@ -15350,6 +15362,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-02-16 00:43:50 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/anchor_tree_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
@@ -15398,6 +15416,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-02-16 00:43:50 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/warped_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
@@ -15413,6 +15437,12 @@
   "bclib:recipes/decorations/tag_shulker_box": {
     "criteria": {
       "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_brick_weathered_from_moss": {
+    "criteria": {
+      "has_moss_block": "2025-02-16 00:43:50 +0000"
     },
     "done": true
   },
@@ -15449,6 +15479,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-15 22:46:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/mossy_bricks_from_moss_block": {
+    "criteria": {
+      "has_item": "2025-02-16 00:43:50 +0000"
     },
     "done": true
   },
@@ -15509,6 +15545,12 @@
   "minecraft:recipes/misc/quartz": {
     "criteria": {
       "has_nether_quartz_ore": "2025-02-16 00:17:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
+    "criteria": {
+      "has_moss_block": "2025-02-16 00:43:50 +0000"
     },
     "done": true
   },

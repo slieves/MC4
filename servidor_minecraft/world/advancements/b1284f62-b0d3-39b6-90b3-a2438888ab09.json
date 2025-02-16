@@ -17219,6 +17219,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-02-16 00:42:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2025-02-15 23:24:22 +0000"
@@ -17279,6 +17285,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-02-16 00:49:03 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/af/gardens_of_the_dead/soulblight_shutter": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
@@ -17336,6 +17348,12 @@
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2025-02-16 00:42:45 +0000"
     },
     "done": true
   },
@@ -17504,6 +17522,12 @@
   "handcrafted:recipes/misc/terracotta_cup": {
     "criteria": {
       "has_terracotta_cup": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-02-16 00:42:40 +0000"
     },
     "done": true
   },
