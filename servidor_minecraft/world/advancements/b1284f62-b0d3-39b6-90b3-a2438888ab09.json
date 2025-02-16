@@ -16907,6 +16907,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/willow_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/biomesoplenty/willow_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/building_blocks/db/gardens_of_the_dead/soulblight_support": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
@@ -16961,6 +16973,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/biomesoplenty/willow_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/thallasium_bulb_lantern_white": {
     "criteria": {
       "has_white_dye": "2025-02-15 22:49:21 +0000"
@@ -16970,6 +16988,18 @@
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2025-02-15 22:40:20 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/willow_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/willow_chair": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
     },
     "done": true
   },
@@ -17000,6 +17030,12 @@
   "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_side_table": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/willow_fancy_bed": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
     },
     "done": true
   },
@@ -17057,6 +17093,18 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/biomesoplenty/willow_dining_bench": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/willow_cupboard": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
   "gardens_of_the_dead:recipes/decorations/soulblight_fence": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
@@ -17072,6 +17120,12 @@
   "biomesoplenty:recipes/building_blocks/willow_planks": {
     "criteria": {
       "has_logs": "2025-02-16 00:25:23 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/willow_trim_1": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
     },
     "done": true
   },
@@ -17099,9 +17153,27 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/willow_lattice": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/willow_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/willow_side_table": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
     },
     "done": true
   },
@@ -17114,6 +17186,12 @@
   "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_couch": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/willow_desk": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
     },
     "done": true
   },
@@ -17132,6 +17210,18 @@
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/willow_corner_trim": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/willow_door": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
     },
     "done": true
   },
@@ -17156,6 +17246,12 @@
   "everycomp:recipes/decorations/af/gardens_of_the_dead/soulblight_flower_box": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/willow_table": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
     },
     "done": true
   },
@@ -17207,6 +17303,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/biomesoplenty/willow_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/faf/gardens_of_the_dead/soulblight_beehive": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
@@ -17231,9 +17333,27 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/biomesoplenty/hollow_willow_log": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_shelf": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_willow": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/willow_chair": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
     },
     "done": true
   },
@@ -17261,6 +17381,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/tf/biomesoplenty/hollow_willow_log": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/wooden_axe_repairing": {
     "criteria": {
       "has_wooden_axe": "2025-02-15 21:36:19 +0000"
@@ -17279,6 +17405,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/biomesoplenty/willow_couch": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_chair": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
@@ -17288,6 +17420,18 @@
   "dungeons_arise:find_merchant_campsite": {
     "criteria": {
       "location0": "2025-02-16 00:49:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/vertical_willow_planks": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/willow_parquet": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
     },
     "done": true
   },
@@ -17303,9 +17447,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/willow_slab": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/gardens_of_the_dead/soulblight_post": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/biomesoplenty/willow_banister": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/biomesoplenty/willow_furnace_boat": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
     },
     "done": true
   },
@@ -17327,15 +17489,33 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/biomesoplenty/willow_post": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/gardens_of_the_dead/soulblight_ladder": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/biomesoplenty/willow_flower_box": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2025-02-15 23:26:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tw/biomesoplenty/willow_table": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
     },
     "done": true
   },
@@ -17357,6 +17537,30 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/willow_sign": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vp/biomesoplenty/willow_horticulturist_table": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/willow_nightstand": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/willow_seat": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/gardens_of_the_dead/soulblight_bookshelf": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
@@ -17375,9 +17579,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/willow_trim": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/willow_sanded_wood": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
     },
     "done": true
   },
@@ -17405,6 +17621,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/biomesoplenty/willow_trapped_chest": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/gardens_of_the_dead/soulblight_trapped_chest": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
@@ -17429,15 +17651,33 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/biomesoplenty/willow_shutter": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2025-02-15 23:24:22 +0000"
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/biomesoplenty/willow_ladder": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2025-02-16 00:54:36 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/willow_table": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
     },
     "done": true
   },
@@ -17465,6 +17705,36 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/biomesoplenty/willow_pillar_trim": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/willow_fence": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/biomesoplenty/large_willow_boat": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/willow_palisade": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/biomesoplenty/willow_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_desk": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
@@ -17489,15 +17759,33 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/faf/biomesoplenty/willow_beehive": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
   "gardens_of_the_dead:recipes/decorations/soulblight_sign": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/willow_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
   "hearth_and_home:recipes/shingles": {
     "criteria": {
       "has_item": "2025-02-15 23:24:22 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/willow_chest": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
     },
     "done": true
   },
@@ -17518,6 +17806,18 @@
       "phantom": "2025-02-15 22:39:26 +0000"
     },
     "done": false
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/willow_vertical_trim": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/willow_counter": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
   },
   "everycomp:recipes/decorations/bp/gardens_of_the_dead/soulblight_backpack_shelf": {
     "criteria": {
@@ -17573,9 +17873,39 @@
     },
     "done": true
   },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/willow_support": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/willow_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
   "gardens_of_the_dead:recipes/building_blocks/soulblight_planks": {
     "criteria": {
       "has_logs": "2025-02-15 21:32:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/stripped_willow_post": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/willow_button": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/willow_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
     },
     "done": true
   },
@@ -17621,6 +17951,12 @@
     },
     "done": true
   },
+  "suppsquared:recipes/decorations/biomesoplenty/item_shelf_willow": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/af/gardens_of_the_dead/soulblight_chair": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
@@ -17642,6 +17978,12 @@
   "everycomp:recipes/decorations/hnhome/gardens_of_the_dead/soulblight_trim": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/willow_bench": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
     },
     "done": true
   },
@@ -17669,9 +18011,27 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/biomesoplenty/willow_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/willow_beam": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/af/gardens_of_the_dead/soulblight_shelf": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/willow_bench": {
+    "criteria": {
+      "has_planks": "2025-02-16 01:05:24 +0000"
     },
     "done": true
   },
