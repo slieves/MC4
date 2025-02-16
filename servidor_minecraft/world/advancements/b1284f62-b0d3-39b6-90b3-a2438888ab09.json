@@ -18120,6 +18120,12 @@
     },
     "done": true
   },
+  "illagerinvasion:recipes/tools/horn_of_sight": {
+    "criteria": {
+      "has_hallowed_gem": "2025-02-16 06:35:09 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/anchor_tree_hanging_sign": {
     "criteria": {
       "has_chain": "2025-02-16 05:46:24 +0000"

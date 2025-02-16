@@ -3999,3 +3999,4 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [16Feb2025 06:29:27.182] [Server thread/INFO] [ping-wheel/]: Channel update: Digigamerfer -> default
 [16Feb2025 06:29:27.182] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
 [16Feb2025 06:29:40.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Guardian
+[16Feb2025 06:33:17.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1486, y=47, z=305} BlockPos{x=1486, y=46, z=306}

@@ -11237,6 +11237,7 @@
   "farmersdelight:main/master_chef": {
     "criteria": {
       "pasta_with_meatballs": "2025-02-12 02:57:53 +0000",
+      "noodle_soup": "2025-02-16 06:34:47 +0000",
       "beef_stew": "2025-02-08 05:04:27 +0000",
       "pasta_with_mutton_chop": "2025-02-07 04:47:07 +0000"
     },
@@ -15797,27 +15798,45 @@
     },
     "done": true
   },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2025-02-16 06:18:11 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate_bricks/slab": {
-    "criteria": {
-      "has_planks": "2025-02-16 05:56:36 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
     "criteria": {
       "has_item.betternether.cincinnasite": "2025-02-16 05:21:52 +0000"
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/cincinnasite_block": {
+    "criteria": {
+      "has_cincinnasite": "2025-02-16 05:21:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-02-16 05:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-02-16 05:24:14 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:monuments": {
+    "criteria": {
+      "in_monument_icy": "2025-02-16 05:53:33 +0000"
+    },
+    "done": false
+  },
   "twilightdelight:recipes/frozen/cutting/ice_bomb": {
     "criteria": {
       "has_blue_ice": "2025-02-16 05:56:09 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/slab": {
+    "criteria": {
+      "has_planks": "2025-02-16 05:56:36 +0000"
     },
     "done": true
   },
@@ -15833,33 +15852,9 @@
     },
     "done": true
   },
-  "deeperdarker:main/find_ancient_city": {
-    "criteria": {
-      "ancient_city": "2025-02-16 06:11:30 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sugar_cube": {
-    "criteria": {
-      "has_sugar": "2025-02-16 06:17:14 +0000"
-    },
-    "done": true
-  },
   "netherexp:recipes/soul_slate_bricks/stairs": {
     "criteria": {
       "has_planks": "2025-02-16 05:56:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_the_recipe": "2025-02-16 06:17:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/distract_piglin": {
-    "criteria": {
-      "distract_piglin": "2025-02-16 05:24:14 +0000"
     },
     "done": true
   },
@@ -15869,15 +15864,21 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/cincinnasite_block": {
+  "netherexp:recipes/soul_slate_bricks/cracked": {
     "criteria": {
-      "has_cincinnasite": "2025-02-16 05:21:52 +0000"
+      "has_planks": "2025-02-16 05:56:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+  "netherexp:recipes/soul_slate_bricks/wall": {
     "criteria": {
-      "has_gold_nugget": "2025-02-16 06:17:58 +0000"
+      "has_planks": "2025-02-16 05:56:36 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-02-16 06:11:30 +0000"
     },
     "done": true
   },
@@ -15893,21 +15894,15 @@
     },
     "done": true
   },
-  "netherexp:recipes/soul_slate_bricks/cracked": {
-    "criteria": {
-      "has_planks": "2025-02-16 05:56:36 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/food/stalagnate_bowl_wart": {
     "criteria": {
       "has_nether_wart": "2025-02-16 06:16:16 +0000"
     },
     "done": true
   },
-  "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
+  "supplementaries:recipes/sugar_cube": {
     "criteria": {
-      "has_item.betternether.cincinnasite": "2025-02-16 05:21:52 +0000"
+      "has_sugar": "2025-02-16 06:17:14 +0000"
     },
     "done": true
   },
@@ -15917,23 +15912,29 @@
     },
     "done": true
   },
-  "netherexp:recipes/soul_slate_bricks/wall": {
-    "criteria": {
-      "has_planks": "2025-02-16 05:56:36 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/cave_pumpkin_pie": {
     "criteria": {
       "has_sugar": "2025-02-16 06:17:14 +0000"
     },
     "done": true
   },
-  "repurposed_structures:monuments": {
+  "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
-      "in_monument_icy": "2025-02-16 05:53:33 +0000"
+      "has_the_recipe": "2025-02-16 06:17:57 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-16 06:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-02-16 06:18:11 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
