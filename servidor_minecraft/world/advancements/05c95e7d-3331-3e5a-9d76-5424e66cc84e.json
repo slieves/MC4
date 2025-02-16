@@ -9802,7 +9802,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-02-07 03:59:45 +0000"
+      "minecraft:crimson_forest": "2025-02-07 03:59:45 +0000",
+      "minecraft:soul_sand_valley": "2025-02-16 02:20:03 +0000"
     },
     "done": false
   },
@@ -10713,6 +10714,12 @@
     },
     "done": true
   },
+  "netherexp:nether/soul_sand_valley": {
+    "criteria": {
+      "condition": "2025-02-16 02:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-16 01:01:59 +0000"
@@ -10959,6 +10966,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/sanctum/phasmo_arrow": {
+    "criteria": {
+      "item": "2025-02-16 02:22:30 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_gloves_repairing": {
     "criteria": {
       "has_diamond_gloves": "2025-02-16 00:58:00 +0000"
@@ -11028,6 +11041,12 @@
   "stoneworks:recipes/building_blocks/basalt_tile_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-16 01:06:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2025-02-16 02:23:09 +0000"
     },
     "done": true
   },
@@ -11316,6 +11335,12 @@
   "twilightforest:recipes/decorations/wood/oak_banister": {
     "criteria": {
       "has_item": "2025-02-16 00:49:34 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/soul_glass": {
+    "criteria": {
+      "item": "2025-02-16 02:22:30 +0000"
     },
     "done": true
   },
