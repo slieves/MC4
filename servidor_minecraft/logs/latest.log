@@ -71,3 +71,7 @@
 [16Feb2025 01:04:15.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Stayin' Frosty]
 [16Feb2025 01:16:07.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Pocket Sand!]
 [16Feb2025 01:18:52.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Nightmare Fuel]
+[16Feb2025 01:27:45.502] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=58, y=103, z=1003} BlockPos{x=57, y=103, z=1004}
+[16Feb2025 01:33:24.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has reached the goal [Non-renewable? Yeah, right..]
+[16Feb2025 01:33:54.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Frightening Rush]
+[16Feb2025 01:35:08.636] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/232042, l='ServerLevel[world]', x=177.50, y=51.00, z=19.50]

@@ -9725,8 +9725,10 @@
       "betternether:poor_nether_grasslands": "2025-02-16 01:06:17 +0000",
       "betternether:crimson_pinewood": "2025-02-07 04:18:15 +0000",
       "betternether:nether_grasslands": "2025-02-16 01:09:32 +0000",
+      "betternether:old_swampland": "2025-02-16 01:23:42 +0000",
       "betternether:nether_swampland": "2025-02-07 04:25:57 +0000",
       "betternether:crimson_glowing_woods": "2025-02-07 03:56:57 +0000",
+      "betternether:nether_swampland_terraces": "2025-02-16 01:24:10 +0000",
       "betternether:sulfuric_bone_reef": "2025-02-07 04:27:30 +0000"
     },
     "done": false
@@ -10303,7 +10305,8 @@
   },
   "betternether:nether_wood": {
     "criteria": {
-      "got_nether_reed": "2025-02-07 04:25:35 +0000"
+      "got_nether_reed": "2025-02-07 04:25:35 +0000",
+      "got_wart": "2025-02-16 01:22:35 +0000"
     },
     "done": false
   },
@@ -10763,6 +10766,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/wart_barrel": {
+    "criteria": {
+      "has_wart_slab": "2025-02-16 01:22:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-02-16 01:01:59 +0000"
@@ -10865,6 +10874,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/wart_bark": {
+    "criteria": {
+      "has_wart_log": "2025-02-16 01:22:35 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_paver_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-16 01:06:33 +0000"
@@ -10931,6 +10946,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2025-02-16 01:30:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stonecutting/blackstone_tile": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-16 01:01:59 +0000"
@@ -10970,6 +10991,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_polished_blackstone": "2025-02-16 01:01:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/wart_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-02-16 01:30:37 +0000"
     },
     "done": true
   },
@@ -11162,6 +11189,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-02-16 01:06:33 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_composter": {
+    "criteria": {
+      "has_wart_slab": "2025-02-16 01:22:32 +0000"
     },
     "done": true
   },
