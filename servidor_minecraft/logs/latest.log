@@ -165,3 +165,32 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [16Feb2025 02:37:43.016] [Server thread/INFO] [ping-wheel/]: Channel update: JOSHEEEE -> default
 [16Feb2025 02:37:43.045] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
 [16Feb2025 02:38:40.214] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/281057, l='ServerLevel[world]', x=164.50, y=55.00, z=14.50]
+[16Feb2025 02:48:43.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Feb2025 02:48:43.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Feb2025 02:48:43.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOSHEEEE lost connection: Server closed
+[16Feb2025 02:48:43.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE left the game
+[16Feb2025 02:48:43.854] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 05c95e7d-3331-3e5a-9d76-5424e66cc84e
+[16Feb2025 02:48:43.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Feb2025 02:48:44.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Feb2025 02:48:45.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[16Feb2025 02:48:45.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Feb2025 02:48:45.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[16Feb2025 02:48:45.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[16Feb2025 02:48:45.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[16Feb2025 02:48:45.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Feb2025 02:48:45.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[16Feb2025 02:48:46.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Feb2025 02:48:46.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[16Feb2025 02:48:46.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Feb2025 02:48:46.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[16Feb2025 02:48:46.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[16Feb2025 02:48:46.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[16Feb2025 02:48:46.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Feb2025 02:48:46.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[16Feb2025 02:48:46.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16Feb2025 02:48:47.147] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[16Feb2025 02:48:47.147] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[16Feb2025 02:48:47.152] [Server thread/INFO] [Framework/]: Unloading server configs...
+[16Feb2025 02:48:47.155] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
+[16Feb2025 02:48:47.157] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[16Feb2025 02:48:47.157] [Server thread/INFO] [Framework/]: Finished unloading server configs
