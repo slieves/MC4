@@ -17435,6 +17435,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-02-16 00:54:36 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/building_blocks/db/gardens_of_the_dead/soulblight_seat": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"

@@ -65,3 +65,7 @@
 [16Feb2025 00:49:03.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3591ms or 71 ticks behind
 [16Feb2025 00:53:55.433] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Bradley'/174375, l='ServerLevel[world]', x=-2647.30, y=70.42, z=76.02] died, message: 'Bradley was slain by Zombie'
 [16Feb2025 00:53:55.434] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Bradley'/174375, l='ServerLevel[world]', x=-2647.30, y=70.42, z=76.02] died: Bradley was slain by Zombie
+[16Feb2025 00:55:14.190] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Feb2025 01:02:32.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Those Were the Days]
+[16Feb2025 01:03:35.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [War Pigs]
+[16Feb2025 01:04:15.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Stayin' Frosty]
