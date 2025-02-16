@@ -2931,6 +2931,7 @@
       "minecraft:blaze": "2025-02-15 22:30:12 +0000",
       "minecraft:skeleton": "2025-02-04 05:25:57 +0000",
       "minecraft:ravager": "2025-02-05 03:22:20 +0000",
+      "minecraft:guardian": "2025-02-16 06:06:42 +0000",
       "minecraft:vindicator": "2025-02-05 03:37:13 +0000",
       "minecraft:spider": "2025-02-05 02:03:44 +0000",
       "minecraft:creeper": "2025-02-04 05:08:04 +0000",
@@ -15796,6 +15797,18 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-02-16 06:18:11 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/slab": {
+    "criteria": {
+      "has_planks": "2025-02-16 05:56:36 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
     "criteria": {
       "has_item.betternether.cincinnasite": "2025-02-16 05:21:52 +0000"
@@ -15808,9 +15821,51 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate_bricks/indented": {
+    "criteria": {
+      "has_planks": "2025-02-16 05:56:36 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/pillar": {
+    "criteria": {
+      "has_planks": "2025-02-16 05:56:36 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-02-16 06:11:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-02-16 06:17:14 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/stairs": {
+    "criteria": {
+      "has_planks": "2025-02-16 05:56:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_the_recipe": "2025-02-16 06:17:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/distract_piglin": {
     "criteria": {
       "distract_piglin": "2025-02-16 05:24:14 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/chiseled": {
+    "criteria": {
+      "has_planks": "2025-02-16 05:56:36 +0000"
     },
     "done": true
   },
@@ -15820,9 +15875,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-16 06:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-02-16 06:16:16 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/herbal_medicine": {
+    "criteria": {
+      "has_nether_wart": "2025-02-16 06:16:16 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/cracked": {
+    "criteria": {
+      "has_planks": "2025-02-16 05:56:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/stalagnate_bowl_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-02-16 06:16:16 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
     "criteria": {
       "has_item.betternether.cincinnasite": "2025-02-16 05:21:52 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/marshmallow_stick": {
+    "criteria": {
+      "has_sugar": "2025-02-16 06:17:14 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/wall": {
+    "criteria": {
+      "has_planks": "2025-02-16 05:56:36 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/cave_pumpkin_pie": {
+    "criteria": {
+      "has_sugar": "2025-02-16 06:17:14 +0000"
     },
     "done": true
   },

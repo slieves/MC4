@@ -3940,3 +3940,62 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [16Feb2025 05:42:33.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Frosted Prison]
 [16Feb2025 05:47:04.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has completed the challenge [Crusade Against Curse]
 [16Feb2025 05:51:36.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Draugr
+[16Feb2025 06:05:02.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> xaero-waypoint:Shared Location:S:1367:74:115:15:false:0:Internal-overworld-waypoints
+[16Feb2025 06:07:18.184] [Worker-Main-9/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[16Feb2025 06:07:18.257] [Worker-Main-9/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 73ms
+[16Feb2025 06:08:42.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1386, y=24, z=122} BlockPos{x=1386, y=23, z=122}
+[16Feb2025 06:08:42.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1386, y=24, z=122} BlockPos{x=1386, y=23, z=122}
+[16Feb2025 06:11:00.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was killed by Guardian using magic
+[16Feb2025 06:11:30.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has reached the goal [A Metropolis of Restless Souls]
+[16Feb2025 06:13:00.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was killed by Guardian using magic
+[16Feb2025 06:13:55.481] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1386, y=23, z=109} BlockPos{x=1386, y=22, z=110}
+[16Feb2025 06:14:10.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was killed by Guardian using magic
+[16Feb2025 06:14:50.076] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1390, y=23, z=118} BlockPos{x=1391, y=22, z=119}
+[16Feb2025 06:14:50.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1390, y=23, z=118} BlockPos{x=1391, y=22, z=119}
+[16Feb2025 06:14:58.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1379, y=22, z=106} BlockPos{x=1380, y=23, z=105}
+[16Feb2025 06:16:11.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1400, y=28, z=126} BlockPos{x=1398, y=26, z=127}
+[16Feb2025 06:16:13.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1405, y=28, z=126} BlockPos{x=1406, y=27, z=126}
+[16Feb2025 06:16:16.928] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1391, y=28, z=128} BlockPos{x=1389, y=26, z=128}
+[16Feb2025 06:16:32.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1395, y=28, z=109} BlockPos{x=1396, y=27, z=108}
+[16Feb2025 06:16:46.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1400, y=28, z=99} BlockPos{x=1400, y=26, z=97}
+[16Feb2025 06:16:49.591] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1396, y=28, z=104} BlockPos{x=1394, y=26, z=102}
+[16Feb2025 06:17:03.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1378, y=28, z=98} BlockPos{x=1377, y=27, z=98}
+[16Feb2025 06:18:11.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Local Brewery]
+[16Feb2025 06:19:04.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1396, y=45, z=107} BlockPos{x=1396, y=44, z=106}
+[16Feb2025 06:19:07.504] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1397, y=46, z=118} BlockPos{x=1396, y=45, z=119}
+[16Feb2025 06:19:07.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1395, y=46, z=116} BlockPos{x=1394, y=45, z=115}
+[16Feb2025 06:20:07.113] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/43138, l='ServerLevel[world]', x=165.50, y=52.00, z=14.50]
+[16Feb2025 06:20:38.698] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1325, y=46, z=112} BlockPos{x=1325, y=45, z=112}
+[16Feb2025 06:20:43.831] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1332, y=46, z=117} BlockPos{x=1333, y=44, z=118}
+[16Feb2025 06:20:44.090] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1334, y=46, z=117} BlockPos{x=1335, y=44, z=118}
+[16Feb2025 06:20:44.173] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1334, y=46, z=117} BlockPos{x=1335, y=44, z=118}
+[16Feb2025 06:20:44.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1334, y=46, z=117} BlockPos{x=1335, y=44, z=118}
+[16Feb2025 06:20:44.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1335, y=46, z=116} BlockPos{x=1335, y=44, z=118}
+[16Feb2025 06:20:44.327] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1335, y=46, z=116} BlockPos{x=1335, y=44, z=118}
+[16Feb2025 06:20:46.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [A Throwaway Joke]
+[16Feb2025 06:20:54.620] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1347, y=43, z=132} BlockPos{x=1347, y=42, z=132}
+[16Feb2025 06:20:54.672] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1347, y=43, z=132} BlockPos{x=1347, y=42, z=132}
+[16Feb2025 06:20:54.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1347, y=43, z=132} BlockPos{x=1347, y=42, z=132}
+[16Feb2025 06:20:55.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1344, y=41, z=132} BlockPos{x=1342, y=39, z=131}
+[16Feb2025 06:20:55.799] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1344, y=41, z=132} BlockPos{x=1342, y=39, z=131}
+[16Feb2025 06:21:49.429] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1329, y=41, z=93} BlockPos{x=1329, y=40, z=93}
+[16Feb2025 06:21:49.472] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1329, y=41, z=93} BlockPos{x=1329, y=40, z=93}
+[16Feb2025 06:21:53.583] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1348, y=41, z=93} BlockPos{x=1349, y=40, z=93}
+[16Feb2025 06:29:09.871] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Digigamerfer lost connection: Disconnected
+[16Feb2025 06:29:09.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer left the game
+[16Feb2025 06:29:09.872] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d2e2f9d0-5f14-3e71-a1c1-1f34957f0684
+[16Feb2025 06:29:26.629] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Digigamerfer[/127.230.65.120:36707] logged in with entity id 46407 at (1360.1163693477406, 51.79275323151431, 113.11216126954533)
+[16Feb2025 06:29:26.635] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Digigamerfer
+[16Feb2025 06:29:26.635] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Digigamerfer
+[16Feb2025 06:29:26.636] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Digigamerfer
+[16Feb2025 06:29:26.636] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Digigamerfer
+[16Feb2025 06:29:26.639] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Digigamerfer
+[16Feb2025 06:29:26.642] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Digigamerfer
+[16Feb2025 06:29:26.643] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Digigamerfer
+[16Feb2025 06:29:26.657] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[16Feb2025 06:29:26.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer joined the game
+[16Feb2025 06:29:26.749] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d2e2f9d0-5f14-3e71-a1c1-1f34957f0684
+[16Feb2025 06:29:26.756] [Server thread/INFO] [Jade/]: Syncing config to Digigamerfer (d2e2f9d0-5f14-3e71-a1c1-1f34957f0684)
+[16Feb2025 06:29:27.182] [Server thread/INFO] [ping-wheel/]: Channel update: Digigamerfer -> default
+[16Feb2025 06:29:27.182] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[16Feb2025 06:29:40.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Guardian

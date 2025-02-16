@@ -2492,6 +2492,7 @@
       "minecraft:pillager": "2025-02-05 02:37:31 +0000",
       "minecraft:blaze": "2025-02-07 04:30:26 +0000",
       "minecraft:skeleton": "2025-02-04 05:42:30 +0000",
+      "minecraft:elder_guardian": "2025-02-16 06:10:52 +0000",
       "minecraft:ravager": "2025-02-05 04:14:13 +0000",
       "minecraft:ghast": "2025-02-13 06:38:05 +0000",
       "minecraft:hoglin": "2025-02-08 05:23:58 +0000",
@@ -18365,9 +18366,477 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_tile_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_dark_prismarine_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_tile_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_frosted_prison": {
     "criteria": {
       "prison": "2025-02-16 05:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_bricks_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/nautilus_shell_block": {
+    "criteria": {
+      "has_nautilus_shell": "2025-02-16 06:20:15 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_shingle_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_plate_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_prismarine_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_plate_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_dark_prismarine_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_shingle_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_plate_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/raw_dark_prismarine_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/raw_dark_prismarine_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/raw_dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_prismarine_tiles_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_paver_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_dark_prismarine_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_dark_prismarine_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_tiles_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_tile_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_plate_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_brick_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_tile_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_nautilus_shell": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-16 06:20:15 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_pavers_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_plate_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_dark_prismarine_brick_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_paver_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_prismarine_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_tile_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_brick_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_paver_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_tiles_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_prismarine_bricks_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_dark_prismarine_tiles_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_pillar_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_pillar_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_bricks_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/raw_dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_dark_prismarine_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_shingle_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_plate_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_shingles_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_dark_prismarine_bricks_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-02-16 06:20:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_brick_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_brick_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_tile_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
     },
     "done": true
   },
@@ -18376,6 +18845,72 @@
       "in_monument_icy": "2025-02-16 05:52:37 +0000"
     },
     "done": false
+  },
+  "stoneworks:recipes/building_blocks/mossy_prismarine_brick_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_dark_prismarine_brick_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_plates_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_prismarine_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_dark_prismarine_bricks_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_plates_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_dark_prismarine_brick_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_prismarine_bricks_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
