@@ -15181,6 +15181,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/nether_mushroom_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/knives/nether_quartz_knife": {
     "criteria": {
       "has_gems/quartz": "2025-02-15 22:18:43 +0000"
@@ -15211,15 +15217,33 @@
     },
     "done": true
   },
+  "netherexp:nether/frightening_rush": {
+    "criteria": {
+      "condition": "2025-02-16 00:19:18 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/quartz_paver_slab_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-15 22:46:19 +0000"
     },
     "done": true
   },
+  "betternether:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-02-15 22:46:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/crimson_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
     },
     "done": true
   },
@@ -15277,9 +15301,21 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/nether_reed_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/honey_cookie": {
     "criteria": {
       "has_honey_bottle": "2025-02-15 21:29:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_sakura_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
     },
     "done": true
   },
@@ -15310,6 +15346,12 @@
   "stoneworks:recipes/building_blocks/mossy_quartz_brick_wall_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-15 22:46:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/anchor_tree_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
     },
     "done": true
   },
@@ -15352,6 +15394,24 @@
   "twigs:recipes/bloodstone/bloodstone": {
     "criteria": {
       "has_item": "2025-02-15 22:18:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/warped_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/mushroom_fir_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_shulker_box": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
     },
     "done": true
   },
@@ -15445,6 +15505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-02-16 00:17:54 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "phantom": "2025-02-15 22:39:24 +0000"
@@ -15457,9 +15523,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-02-16 00:17:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/rubeus_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/food/cooking/glow_jam_jar": {
     "criteria": {
       "has_glow_berries": "2025-02-15 22:58:48 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/stalagnate_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
     },
     "done": true
   },
@@ -15526,6 +15610,12 @@
   "stoneworks:recipes/building_blocks/quartz_tile_wall_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-15 22:46:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/wart_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
     },
     "done": true
   },
