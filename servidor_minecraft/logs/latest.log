@@ -4011,3 +4011,4 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [16Feb2025 06:50:11.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Digigamerfer lost connection: Disconnected
 [16Feb2025 06:50:11.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer left the game
 [16Feb2025 06:50:11.434] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d2e2f9d0-5f14-3e71-a1c1-1f34957f0684
+[16Feb2025 06:53:27.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Ancient Civilization]
