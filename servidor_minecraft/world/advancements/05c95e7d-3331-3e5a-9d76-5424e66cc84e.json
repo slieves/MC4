@@ -9728,6 +9728,7 @@
       "betternether:old_swampland": "2025-02-16 01:23:42 +0000",
       "betternether:nether_swampland": "2025-02-07 04:25:57 +0000",
       "betternether:crimson_glowing_woods": "2025-02-07 03:56:57 +0000",
+      "betternether:nether_jungle": "2025-02-16 01:35:37 +0000",
       "betternether:nether_swampland_terraces": "2025-02-16 01:24:10 +0000",
       "betternether:sulfuric_bone_reef": "2025-02-07 04:27:30 +0000"
     },
@@ -10784,6 +10785,18 @@
     },
     "done": true
   },
+  "netherexp:nether/frightening_rush": {
+    "criteria": {
+      "condition": "2025-02-16 01:33:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "noodle_soup": "2025-02-16 01:37:03 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-02-16 01:01:59 +0000"
@@ -10823,6 +10836,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-02-16 01:01:59 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-02-16 01:37:07 +0000"
     },
     "done": true
   },
@@ -10901,6 +10920,12 @@
   "netherexp:recipes/blackstone/twisting": {
     "criteria": {
       "has_item": "2025-02-16 01:01:59 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/non_renewable_yeah_right": {
+    "criteria": {
+      "killed_entity": "2025-02-16 01:33:24 +0000"
     },
     "done": true
   },
@@ -11006,6 +11031,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-16 01:37:07 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/basalt/slab": {
     "criteria": {
       "has_item": "2025-02-16 01:06:33 +0000"
@@ -11027,6 +11058,12 @@
   "another_furniture:recipes/oak_shutter": {
     "criteria": {
       "has_slab": "2025-02-16 00:49:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-02-16 01:37:03 +0000"
     },
     "done": true
   },
@@ -11075,6 +11112,12 @@
   "stoneworks:recipes/building_blocks/basalt_shingle_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-16 01:06:33 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-02-16 01:37:07 +0000"
     },
     "done": true
   },
@@ -11165,6 +11208,12 @@
   "netherchested:recipes/decorations/nether_chest": {
     "criteria": {
       "has_netherite_scrap": "2025-02-16 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2025-02-16 01:37:07 +0000"
     },
     "done": true
   },
@@ -11267,6 +11316,18 @@
   "netherexp:nether/stayin_frosty": {
     "criteria": {
       "c1": "2025-02-16 01:04:15 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-16 01:37:07 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bn_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-16 01:37:07 +0000"
     },
     "done": true
   },

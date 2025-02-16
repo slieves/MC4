@@ -75,3 +75,6 @@
 [16Feb2025 01:33:24.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has reached the goal [Non-renewable? Yeah, right..]
 [16Feb2025 01:33:54.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Frightening Rush]
 [16Feb2025 01:35:08.636] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/232042, l='ServerLevel[world]', x=177.50, y=51.00, z=19.50]
+[16Feb2025 01:36:14.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2527ms or 50 ticks behind
+[16Feb2025 01:45:15.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2848ms or 56 ticks behind
+[16Feb2025 01:45:36.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6344ms or 126 ticks behind
