@@ -18400,6 +18400,12 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_gold_pickaxe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-02-16 07:10:26 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/prismarine_tile_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-16 06:23:42 +0000"
@@ -18409,6 +18415,12 @@
   "cataclysm:find_frosted_prison": {
     "criteria": {
       "prison": "2025-02-16 05:42:33 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_helmet_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-02-16 07:10:26 +0000"
     },
     "done": true
   },
@@ -18520,6 +18532,12 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_gold_shovel_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-02-16 07:10:26 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_prismarine_tiles_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-16 06:23:42 +0000"
@@ -18532,9 +18550,21 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_gold_leggings_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-02-16 07:10:26 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/chiseled_dark_prismarine_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_chestplate_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-02-16 07:10:26 +0000"
     },
     "done": true
   },
@@ -18607,6 +18637,12 @@
   "stoneworks:recipes/building_blocks/prismarine_plate_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_boots_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-02-16 07:10:26 +0000"
     },
     "done": true
   },
@@ -18688,6 +18724,12 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_gold_sword_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-02-16 07:10:26 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-16 06:23:42 +0000"
@@ -18739,6 +18781,12 @@
   "stoneworks:recipes/building_blocks/polished_dark_prismarine_wall_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-16 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_hoe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-02-16 07:10:26 +0000"
     },
     "done": true
   },
@@ -18832,9 +18880,21 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_gold_axe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-02-16 07:10:26 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-16 06:23:42 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/building_blocks/netherite_gold_block": {
+    "criteria": {
+      "has_netherite_gold_ingot": "2025-02-16 07:10:26 +0000"
     },
     "done": true
   },
