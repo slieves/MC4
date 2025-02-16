@@ -15128,9 +15128,177 @@
     },
     "done": true
   },
+  "minecraft:husbandry/safely_harvest_honey": {
+    "criteria": {
+      "safely_harvest_honey": "2025-02-15 21:29:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-02-15 21:29:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-02-15 21:29:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-02-15 21:29:42 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/soul_sand_valley": {
+    "criteria": {
+      "condition": "2025-02-15 22:17:51 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:fireproof": {
+    "criteria": {
+      "nether_portal_small_1": "2025-02-15 22:17:51 +0000"
+    },
+    "done": false
+  },
+  "delightful:recipes/knives/nether_quartz_knife": {
+    "criteria": {
+      "has_gems/quartz": "2025-02-15 22:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-15 22:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-15 22:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-15 22:18:43 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone": {
+    "criteria": {
+      "has_item": "2025-02-15 22:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-15 22:18:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_smelting": {
+    "criteria": {
+      "has_item.minecraft.quartz": "2025-02-15 22:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-15 22:18:43 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist": {
+    "criteria": {
+      "has_item": "2025-02-15 22:18:43 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite": {
+    "criteria": {
+      "has_item": "2025-02-15 22:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-15 22:18:43 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_warped": "2025-02-15 22:22:24 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2025-02-15 22:24:31 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/rock_candy": {
+    "criteria": {
+      "has_rose_quartz": "2025-02-15 22:24:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-02-15 22:31:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-15 22:31:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-02-15 22:31:58 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/cincinnasite_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_block.betternether.cincinnasite_ore": "2025-02-15 22:34:25 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/cincinnasite_ingot_from_ore_smelting": {
+    "criteria": {
+      "has_block.betternether.cincinnasite_ore": "2025-02-15 22:34:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-02-15 22:36:39 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-02-15 22:39:24 +0000"
+    },
+    "done": false
+  },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-02-15 22:39:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-02-15 22:39:34 +0000"
     },
     "done": true
   },
@@ -15146,21 +15314,9 @@
     },
     "done": true
   },
-  "netherexp:nether/soul_sand_valley": {
-    "criteria": {
-      "condition": "2025-02-15 22:17:51 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/quartz_shingle_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-15 22:46:19 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_moss": {
-    "criteria": {
-      "has_item": "2025-02-16 00:43:50 +0000"
     },
     "done": true
   },
@@ -15182,24 +15338,6 @@
     },
     "done": true
   },
-  "betternether:recipes/misc/cincinnasite_ingot_from_ore_blasting": {
-    "criteria": {
-      "has_block.betternether.cincinnasite_ore": "2025-02-15 22:34:25 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/nether_mushroom_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/knives/nether_quartz_knife": {
-    "criteria": {
-      "has_gems/quartz": "2025-02-15 22:18:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-15 22:46:19 +0000"
@@ -15212,27 +15350,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/pocket_sand": {
-    "criteria": {
-      "rat_upgrade_basic": "2025-02-16 01:16:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-02-15 22:18:43 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/cobbled_quartz_wall_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-15 22:46:19 +0000"
-    },
-    "done": true
-  },
-  "netherexp:nether/frightening_rush": {
-    "criteria": {
-      "condition": "2025-02-16 00:19:18 +0000"
     },
     "done": true
   },
@@ -15242,57 +15362,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-02-16 00:43:50 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/willow_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-02-15 22:46:19 +0000"
     },
     "done": true
   },
-  "betternether:recipes/transportation/crimson_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_quartz_block": "2025-02-15 22:46:19 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/alligator_snapping_turtle": {
-    "criteria": {
-      "killed_by": "2025-02-15 22:51:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-02-15 22:18:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-02-15 22:18:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/safely_harvest_honey": {
-    "criteria": {
-      "safely_harvest_honey": "2025-02-15 21:29:42 +0000"
     },
     "done": true
   },
@@ -15320,24 +15398,6 @@
     },
     "done": true
   },
-  "betternether:recipes/transportation/nether_reed_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/honey_cookie": {
-    "criteria": {
-      "has_honey_bottle": "2025-02-15 21:29:42 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/nether_sakura_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/cobbled_quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-15 22:46:19 +0000"
@@ -15350,12 +15410,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2025-02-15 22:31:58 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/polished_quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-15 22:46:19 +0000"
@@ -15365,18 +15419,6 @@
   "stoneworks:recipes/building_blocks/mossy_quartz_brick_wall_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-15 22:46:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-02-16 00:43:50 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/anchor_tree_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
     },
     "done": true
   },
@@ -15416,63 +15458,15 @@
     },
     "done": true
   },
-  "twigs:recipes/bloodstone/bloodstone": {
-    "criteria": {
-      "has_item": "2025-02-15 22:18:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-02-16 00:43:50 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/warped_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/mushroom_fir_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
-    },
-    "done": true
-  },
-  "bclib:recipes/decorations/tag_shulker_box": {
-    "criteria": {
-      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/end_stone_brick_weathered_from_moss": {
-    "criteria": {
-      "has_moss_block": "2025-02-16 00:43:50 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/quartz_pavers_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-15 22:46:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-02-15 22:18:43 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_quartz_brick_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-15 22:46:19 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/guster": {
-    "criteria": {
-      "killed_by": "2025-02-15 23:40:47 +0000"
     },
     "done": true
   },
@@ -15488,39 +15482,9 @@
     },
     "done": true
   },
-  "twigs:recipes/bricks/mossy_bricks_from_moss_block": {
-    "criteria": {
-      "has_item": "2025-02-16 00:43:50 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
-    "criteria": {
-      "has_rose_quartz_chunk": "2025-02-15 22:24:31 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/quartz_paver_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-15 22:46:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
-    "criteria": {
-      "has_honey_bottle": "2025-02-15 21:29:42 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/food/cooking/rock_candy": {
-    "criteria": {
-      "has_rose_quartz": "2025-02-15 22:24:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/honey_block": {
-    "criteria": {
-      "has_honey_bottle": "2025-02-15 21:29:42 +0000"
     },
     "done": true
   },
@@ -15530,75 +15494,9 @@
     },
     "done": true
   },
-  "betternether:recipes/misc/cincinnasite_ingot_from_ore_smelting": {
-    "criteria": {
-      "has_block.betternether.cincinnasite_ore": "2025-02-15 22:34:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-15 22:46:19 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/quartz_glass_smelting": {
-    "criteria": {
-      "has_item.minecraft.quartz": "2025-02-15 22:18:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/quartz": {
-    "criteria": {
-      "has_nether_quartz_ore": "2025-02-16 00:17:54 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
-    "criteria": {
-      "has_moss_block": "2025-02-16 00:43:50 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/kill_all_sculk_mobs": {
-    "criteria": {
-      "phantom": "2025-02-15 22:39:24 +0000"
-    },
-    "done": false
-  },
-  "betterend:recipes/misc/enchanted_membrane": {
-    "criteria": {
-      "has_item.minecraft.phantom_membrane": "2025-02-15 22:39:34 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/diamond_axe_repairing": {
-    "criteria": {
-      "has_diamond_axe": "2025-02-16 01:24:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/quartz_from_blasting": {
-    "criteria": {
-      "has_nether_quartz_ore": "2025-02-16 00:17:54 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/rubeus_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/food/cooking/glow_jam_jar": {
-    "criteria": {
-      "has_glow_berries": "2025-02-15 22:58:48 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/stalagnate_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
     },
     "done": true
   },
@@ -15632,35 +15530,11 @@
     },
     "done": true
   },
-  "repurposed_structures:mineshafts": {
-    "criteria": {
-      "in_mineshaft_warped": "2025-02-15 22:22:24 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-02-15 22:31:58 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/quartz_plate_slab_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-15 22:46:19 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-02-15 22:18:43 +0000"
-    },
-    "done": true
-  },
-  "adorabuild_structures:fireproof": {
-    "criteria": {
-      "nether_portal_small_1": "2025-02-15 22:17:51 +0000"
-    },
-    "done": false
   },
   "stoneworks:recipes/building_blocks/quartz_tile_wall_from_quartz_block_stonecutting": {
     "criteria": {
@@ -15668,39 +15542,9 @@
     },
     "done": true
   },
-  "betternether:recipes/transportation/wart_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/phantom_trophy": {
-    "criteria": {
-      "has_phantom_trophy": "2025-02-15 22:39:34 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/globe_sepia": {
-    "criteria": {
-      "has_globe": "2025-02-15 23:20:46 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/quartz_corner_trim": {
     "criteria": {
       "has_quartz_corner_trim": "2025-02-15 22:46:19 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/schist/schist": {
-    "criteria": {
-      "has_item": "2025-02-15 22:18:43 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite": {
-    "criteria": {
-      "has_item": "2025-02-15 22:18:43 +0000"
     },
     "done": true
   },
@@ -15713,12 +15557,6 @@
   "stoneworks:recipes/building_blocks/quartz_shingle_wall_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-15 22:46:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2025-02-15 22:18:43 +0000"
     },
     "done": true
   },
@@ -15752,15 +15590,177 @@
     },
     "done": true
   },
-  "minecraft:nether/fast_travel": {
-    "criteria": {
-      "travelled": "2025-02-15 22:36:39 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/polished_quartz_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-15 22:46:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/alligator_snapping_turtle": {
+    "criteria": {
+      "killed_by": "2025-02-15 22:51:25 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/glow_jam_jar": {
+    "criteria": {
+      "has_glow_berries": "2025-02-15 22:58:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_globe": "2025-02-15 23:20:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-02-15 23:40:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_mushroom_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/crimson_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_reed_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_sakura_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/anchor_tree_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/warped_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/mushroom_fir_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_shulker_box": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/rubeus_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/stalagnate_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/wart_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-16 00:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-02-16 00:17:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-02-16 00:17:54 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/frightening_rush": {
+    "criteria": {
+      "condition": "2025-02-16 00:19:18 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_moss": {
+    "criteria": {
+      "has_item": "2025-02-16 00:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-02-16 00:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-02-16 00:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-02-16 00:43:50 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_brick_weathered_from_moss": {
+    "criteria": {
+      "has_moss_block": "2025-02-16 00:43:50 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/mossy_bricks_from_moss_block": {
+    "criteria": {
+      "has_item": "2025-02-16 00:43:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
+    "criteria": {
+      "has_moss_block": "2025-02-16 00:43:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/pocket_sand": {
+    "criteria": {
+      "rat_upgrade_basic": "2025-02-16 01:16:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-02-16 01:24:04 +0000"
     },
     "done": true
   },

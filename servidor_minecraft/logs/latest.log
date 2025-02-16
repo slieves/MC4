@@ -100,3 +100,10 @@
 [16Feb2025 02:05:40.001] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
 [16Feb2025 02:06:17.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE has made the advancement [Drop it like it's hot]
 [16Feb2025 02:06:56.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2880ms or 57 ticks behind
+[16Feb2025 02:07:16.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4754ms or 95 ticks behind
+[16Feb2025 02:08:22.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 lost connection: Disconnected
+[16Feb2025 02:08:22.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 left the game
+[16Feb2025 02:08:22.850] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for edb6134e-223e-3469-9573-7afb11cfbf0d
+[16Feb2025 02:08:26.146] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shinkar lost connection: Disconnected
+[16Feb2025 02:08:26.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar left the game
+[16Feb2025 02:08:26.147] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b1284f62-b0d3-39b6-90b3-a2438888ab09

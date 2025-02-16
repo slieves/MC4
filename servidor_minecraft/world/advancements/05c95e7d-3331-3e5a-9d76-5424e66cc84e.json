@@ -10983,6 +10983,12 @@
     },
     "done": true
   },
+  "friendsandfoes:nether/find_citadel": {
+    "criteria": {
+      "citadel": "2025-02-16 02:03:51 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/diamond_shovel_repairing": {
     "criteria": {
       "has_diamond_shovel": "2025-02-16 01:30:49 +0000"
@@ -11202,6 +11208,12 @@
   "twigs:recipes/tables/oak_table_slab": {
     "criteria": {
       "has_bamboo": "2025-02-16 00:49:34 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:nether/kill_wildfire": {
+    "criteria": {
+      "killed_wildfire": "2025-02-16 02:06:17 +0000"
     },
     "done": true
   },
