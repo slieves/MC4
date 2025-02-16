@@ -3937,3 +3937,5 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [16Feb2025 05:28:10.140] [Server thread/INFO] [ping-wheel/]: Channel update: Sirfafnir55 -> default
 [16Feb2025 05:28:10.141] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
 [16Feb2025 05:28:23.444] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[16Feb2025 05:42:33.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Frosted Prison]
+[16Feb2025 05:47:04.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has completed the challenge [Crusade Against Curse]
