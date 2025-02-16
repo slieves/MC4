@@ -147,3 +147,21 @@ net.minecraft.ReportedException: Loading entity NBT
 Caused by: java.lang.IllegalStateException: Entity has invalid position
 	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1759) ~[server-1.20.1-20230612.114412-srg.jar%23649!/:?]
 	... 33 more
+[16Feb2025 02:37:27.732] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOSHEEEE lost connection: Disconnected
+[16Feb2025 02:37:27.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE left the game
+[16Feb2025 02:37:27.733] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 05c95e7d-3331-3e5a-9d76-5424e66cc84e
+[16Feb2025 02:37:42.301] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JOSHEEEE[/127.41.73.254:36955] logged in with entity id 280403 at (-681.6659675358665, 97.0, 26.110154419523703)
+[16Feb2025 02:37:42.307] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JOSHEEEE
+[16Feb2025 02:37:42.307] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JOSHEEEE
+[16Feb2025 02:37:42.308] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JOSHEEEE
+[16Feb2025 02:37:42.308] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JOSHEEEE
+[16Feb2025 02:37:42.309] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JOSHEEEE
+[16Feb2025 02:37:42.310] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JOSHEEEE
+[16Feb2025 02:37:42.311] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JOSHEEEE
+[16Feb2025 02:37:42.319] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[16Feb2025 02:37:42.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOSHEEEE joined the game
+[16Feb2025 02:37:42.376] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 05c95e7d-3331-3e5a-9d76-5424e66cc84e
+[16Feb2025 02:37:42.382] [Server thread/INFO] [Jade/]: Syncing config to JOSHEEEE (05c95e7d-3331-3e5a-9d76-5424e66cc84e)
+[16Feb2025 02:37:43.016] [Server thread/INFO] [ping-wheel/]: Channel update: JOSHEEEE -> default
+[16Feb2025 02:37:43.045] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[16Feb2025 02:38:40.214] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/281057, l='ServerLevel[world]', x=164.50, y=55.00, z=14.50]
