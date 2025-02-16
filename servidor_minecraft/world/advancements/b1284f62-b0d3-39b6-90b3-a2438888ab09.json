@@ -5146,6 +5146,7 @@
     "criteria": {
       "muskeg": "2025-02-05 02:57:53 +0000",
       "woodland": "2025-02-12 04:53:50 +0000",
+      "shrubland": "2025-02-16 00:32:50 +0000",
       "snowblossom_grove": "2025-02-05 04:54:26 +0000",
       "rocky_shrubland": "2025-02-06 03:43:00 +0000",
       "scrubland": "2025-02-10 04:25:27 +0000",
@@ -5614,7 +5615,8 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
-      "in_pyramid_snowy": "2025-02-05 02:48:18 +0000"
+      "in_pyramid_snowy": "2025-02-05 02:48:18 +0000",
+      "in_pyramid_flower_forest": "2025-02-16 00:36:05 +0000"
     },
     "done": false
   },
@@ -16989,6 +16991,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-02-16 00:36:13 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/gardens_of_the_dead/soulblight_side_table": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
@@ -17292,6 +17300,12 @@
   "gardens_of_the_dead:recipes/building_blocks/soulblight_slab": {
     "criteria": {
       "has_planks": "2025-02-15 21:36:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_lavender": "2025-02-16 00:36:21 +0000"
     },
     "done": true
   },

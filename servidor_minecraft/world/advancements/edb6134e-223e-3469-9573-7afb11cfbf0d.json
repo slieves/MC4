@@ -5500,6 +5500,7 @@
       "dune_beach": "2025-02-04 06:07:27 +0000",
       "auroral_garden": "2025-02-13 04:40:57 +0000",
       "dead_forest": "2025-02-05 02:55:32 +0000",
+      "volcano": "2025-02-16 00:41:12 +0000",
       "rocky_rainforest": "2025-02-16 00:20:09 +0000",
       "volcanic_plains": "2025-02-16 00:20:14 +0000",
       "fir_clearing": "2025-02-06 05:57:29 +0000",
@@ -17311,6 +17312,18 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-02-16 00:17:15 +0000"
@@ -17320,6 +17333,12 @@
   "handcrafted:recipes/misc/acacia_fancy_bed": {
     "criteria": {
       "has_acacia_fancy_bed": "2025-02-16 00:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:35:54 +0000"
     },
     "done": true
   },
@@ -17335,9 +17354,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_dining_bench": {
+    "criteria": {
+      "has_jungle_dining_bench": "2025-02-16 00:35:54 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/acacia_chair": {
     "criteria": {
       "has_planks": "2025-02-16 00:17:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_jungle": {
+    "criteria": {
+      "has_the_recipe": "2025-02-16 00:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:35:54 +0000"
     },
     "done": true
   },
@@ -17359,9 +17402,33 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/biomesoplenty/stripped_mahogany_post": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_pillar_trim": {
     "criteria": {
       "has_acacia_pillar_trim": "2025-02-16 00:17:15 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_bench": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/mahogany_lattice": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/jungle_table": {
+    "criteria": {
+      "has_jungle": "2025-02-16 00:35:54 +0000"
     },
     "done": true
   },
@@ -17377,6 +17444,24 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_table": {
+    "criteria": {
+      "has_jungle_table": "2025-02-16 00:35:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/mahogany_palisade": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-02-15 22:46:01 +0000"
@@ -17386,6 +17471,48 @@
   "delightful:recipes/gummy/salmonberries": {
     "criteria": {
       "has_salmonberries": "2025-02-15 23:25:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_corner_trim": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_side_table": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/mahogany_sanded_wood": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/vertical_mahogany_planks": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/mahogany_support": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/biomesoplenty/large_mahogany_boat": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
     },
     "done": true
   },
@@ -17407,6 +17534,30 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/biomesoplenty/mahogany_banister": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/mahogany_post": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_counter": {
+    "criteria": {
+      "has_jungle_counter": "2025-02-16 00:35:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2025-02-16 00:17:15 +0000"
@@ -17419,9 +17570,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_shelf": {
     "criteria": {
       "has_acacia_shelf": "2025-02-16 00:17:15 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_counter": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
     },
     "done": true
   },
@@ -17437,9 +17600,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_table": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2025-02-15 22:46:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
     },
     "done": true
   },
@@ -17449,9 +17624,45 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/mahogany_vertical_trim": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/biomesoplenty/mahogany_furnace_boat": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_black_bed": {
     "criteria": {
       "has_needed_dye": "2025-02-15 21:51:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_nightstand": {
+    "criteria": {
+      "has_jungle_nightstand": "2025-02-16 00:35:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_chair": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
     },
     "done": true
   },
@@ -17461,15 +17672,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:35:54 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_couch": {
     "criteria": {
       "has_acacia_couch": "2025-02-16 00:17:15 +0000"
     },
     "done": true
   },
+  "another_furniture:recipes/jungle_table": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:35:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_cupboard": {
+    "criteria": {
+      "has_jungle_cupboard": "2025-02-16 00:35:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_flower_box": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:35:54 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/acacia_seat": {
     "criteria": {
       "has_plank": "2025-02-16 00:17:15 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/mahogany_beam": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/biomesoplenty/mahogany_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/biomesoplenty/hollow_mahogany_log": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
     },
     "done": true
   },
@@ -17491,15 +17750,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:35:54 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_counter": {
     "criteria": {
       "has_acacia_counter": "2025-02-16 00:17:15 +0000"
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/biomesoplenty/mahogany_trapped_chest": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_jungle": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:35:54 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/banana": {
     "criteria": {
       "banana": "2025-02-16 00:23:23 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_bench": {
+    "criteria": {
+      "has_jungle_bench": "2025-02-16 00:35:54 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tame_capuchin": {
+    "criteria": {
+      "tame": "2025-02-16 00:39:09 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_fancy_bed": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_shutter": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
     },
     "done": true
   },
@@ -17533,9 +17834,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_table": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/combat/warden_sword_smithing": {
     "criteria": {
       "has_reinforced_echo_shard": "2025-02-15 23:44:37 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_chair": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
     },
     "done": true
   },
@@ -17545,9 +17858,27 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/fd/biomesoplenty/mahogany_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_cupboard": {
     "criteria": {
       "has_acacia_cupboard": "2025-02-16 00:17:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_side_table": {
+    "criteria": {
+      "has_jungle_side_table": "2025-02-16 00:35:54 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/biomesoplenty/item_shelf_mahogany": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
     },
     "done": true
   },
@@ -17557,9 +17888,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_desk": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/mahogany_wood": {
     "criteria": {
       "has_log": "2025-02-16 00:22:46 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_chair": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:35:54 +0000"
     },
     "done": true
   },
@@ -17581,15 +17924,63 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_pillar_trim": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/combat/warden_helmet_smithing": {
     "criteria": {
       "has_reinforced_echo_shard": "2025-02-15 23:44:37 +0000"
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_couch": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/mahogany_parquet": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_drawer": {
+    "criteria": {
+      "has_jungle_drawer": "2025-02-16 00:35:54 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/guster": {
     "criteria": {
       "killed_by": "2025-02-15 23:41:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:35:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_corner_trim": {
+    "criteria": {
+      "has_jungle_corner_trim": "2025-02-16 00:35:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_shelf": {
+    "criteria": {
+      "has_jungle_shelf": "2025-02-16 00:35:54 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:35:54 +0000"
     },
     "done": true
   },
@@ -17605,6 +17996,24 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_jungle": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:35:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_nightstand": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
     "criteria": {
       "ex": "2025-02-16 00:26:39 +0000"
@@ -17614,6 +18023,18 @@
   "supplementaries:recipes/sign_post_acacia": {
     "criteria": {
       "has_the_recipe": "2025-02-16 00:17:15 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/hollow_mahogany_log": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
     },
     "done": true
   },
@@ -17641,6 +18062,18 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/biomesoplenty/mahogany_chest": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:35:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_black_dye": "2025-02-15 21:51:57 +0000"
@@ -17653,15 +18086,51 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/faf/biomesoplenty/mahogany_beehive": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-02-16 00:34:00 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_black_dye": {
     "criteria": {
       "forge:dyes/black": "2025-02-15 21:51:57 +0000"
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/biomesoplenty/mahogany_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_pillar_trim": {
+    "criteria": {
+      "has_jungle_pillar_trim": "2025-02-16 00:35:54 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/jungle_seat": {
+    "criteria": {
+      "has_plank": "2025-02-16 00:35:54 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/copper_pillar/copper_pillar_stonecutting": {
     "criteria": {
       "has_cut_copper_slab": "2025-02-15 22:46:01 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/jungle_support": {
+    "criteria": {
+      "has_plank": "2025-02-16 00:35:54 +0000"
     },
     "done": true
   },
@@ -17683,6 +18152,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/vp/biomesoplenty/mahogany_horticulturist_table": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_black_carpet": {
     "criteria": {
       "has_needed_dye": "2025-02-15 21:51:57 +0000"
@@ -17701,6 +18176,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tw/biomesoplenty/mahogany_table": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
   "suppsquared:recipes/decorations/item_shelf_acacia": {
     "criteria": {
       "has_planks": "2025-02-16 00:17:15 +0000"
@@ -17713,9 +18200,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_cupboard": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2025-02-15 21:51:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
     },
     "done": true
   },
@@ -17728,6 +18227,18 @@
   "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
     "criteria": {
       "leafcutter_ant_pupa": "2025-02-16 00:24:57 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_dining_bench": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/mahogany_trim": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
     },
     "done": true
   },
@@ -17749,6 +18260,42 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/biomesoplenty/mahogany_ladder": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_chair": {
+    "criteria": {
+      "has_jungle_chair": "2025-02-16 00:35:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_desk": {
+    "criteria": {
+      "has_jungle_desk": "2025-02-16 00:35:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_bench": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:35:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/mahogany_seat": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_nightstand": {
     "criteria": {
       "has_acacia_nightstand": "2025-02-16 00:17:15 +0000"
@@ -17758,6 +18305,12 @@
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-16 00:17:15 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/mahogany_trim_1": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
     },
     "done": true
   },
@@ -17782,6 +18335,24 @@
   "quark:mine_toretoise": {
     "criteria": {
       "mine_toretoise": "2025-02-15 22:57:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_couch": {
+    "criteria": {
+      "has_jungle_couch": "2025-02-16 00:35:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_fancy_bed": {
+    "criteria": {
+      "has_jungle_fancy_bed": "2025-02-16 00:35:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-16 00:33:51 +0000"
     },
     "done": true
   },

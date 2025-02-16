@@ -5587,7 +5587,8 @@
   "repurposed_structures:pyramids": {
     "criteria": {
       "in_pyramid_ocean": "2025-02-08 03:57:58 +0000",
-      "in_pyramid_snowy": "2025-02-05 02:10:55 +0000"
+      "in_pyramid_snowy": "2025-02-05 02:10:55 +0000",
+      "in_pyramid_flower_forest": "2025-02-16 00:38:11 +0000"
     },
     "done": false
   },
