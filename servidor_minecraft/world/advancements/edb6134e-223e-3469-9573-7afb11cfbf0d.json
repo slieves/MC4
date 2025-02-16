@@ -18371,5 +18371,11 @@
     },
     "done": true
   },
+  "repurposed_structures:monuments": {
+    "criteria": {
+      "in_monument_icy": "2025-02-16 05:52:37 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

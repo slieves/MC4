@@ -18053,6 +18053,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
+    "criteria": {
+      "has_tide_armor_trim_smithing_template": "2025-02-16 05:55:02 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/willow_hanging_sign": {
     "criteria": {
       "has_chain": "2025-02-16 05:46:24 +0000"
@@ -18113,6 +18119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-16 05:55:02 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_jellyshroom_hanging_sign": {
     "criteria": {
       "has_chain": "2025-02-16 05:46:24 +0000"
@@ -18128,6 +18140,12 @@
   "betterend:recipes/decorations/helix_tree_hanging_sign": {
     "criteria": {
       "has_chain": "2025-02-16 05:46:24 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2025-02-16 05:47:04 +0000"
     },
     "done": true
   },
